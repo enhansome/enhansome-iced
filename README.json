@@ -1,0 +1,844 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sniffnet",
+          "description": "A network traffic monitoring tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:16:53Z",
+            "owner": "GyulyVGC",
+            "repo": "sniffnet",
+            "stars": 40523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "universal-android-debloater",
+          "description": "Debloat non-rooted Android devices using ADB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-02T16:16:12Z",
+            "owner": "0x192",
+            "repo": "universal-android-debloater",
+            "stars": 19755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veloren",
+          "description": "Multiplayer voxel RPG written in Rust. Uses iced for its default graphical client frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:00:12Z",
+            "owner": "veloren",
+            "repo": "veloren",
+            "stars": 7468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ludusavi",
+          "description": "A tool for backing up PC game save data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T04:28:11Z",
+            "owner": "mtkennerly",
+            "repo": "ludusavi",
+            "stars": 6111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Halloy",
+          "description": "An open-source IRC client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:35:34Z",
+            "owner": "squidowl",
+            "repo": "halloy",
+            "stars": 4400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neothesia",
+          "description": "Flashy Synthesia Like Software For Linux, Windows and MacOs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:08:17Z",
+            "owner": "PolyMeilex",
+            "repo": "Neothesia",
+            "stars": 1522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ajour",
+          "description": "A World of Warcraft addon manager.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-09-17T14:57:45Z",
+            "owner": "ajour",
+            "repo": "ajour",
+            "stars": 1010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenVehicleDiag",
+          "description": "Vehicle ECU diagnostic platform and car 'hacking' .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-25T16:43:34Z",
+            "owner": "rnd-ash",
+            "repo": "OpenVehicleDiag",
+            "stars": 988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmic-comp",
+          "description": "Compositor for the COSMIC desktop environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T17:24:26Z",
+            "owner": "pop-os",
+            "repo": "cosmic-comp",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctaSine",
+          "description": "Cross-platform FM Synth plugin (VST2 & CLAP). Uses iced for its GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-03T10:59:21Z",
+            "owner": "greatest-ape",
+            "repo": "OctaSine",
+            "stars": 800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onagre",
+          "description": "General purpose application launcher for X and wayland inspired by rof/wofi and alfred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-24T14:03:56Z",
+            "owner": "onagre-launcher",
+            "repo": "onagre",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ytdlp-gui",
+          "description": "A GUI for yt-dlp, a fork of youtube-dl with additional features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-10T17:44:37Z",
+            "owner": "BKSalman",
+            "repo": "ytdlp-gui",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liana",
+          "description": "A Bitcoin wallet with a unique 'safety net' - a timelocked recovery path for all of your coins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T16:55:51Z",
+            "owner": "wizardsardine",
+            "repo": "liana",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Furtherance",
+          "description": "A privacy-focused time-tracking app and pomodoro timer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-17T06:35:41Z",
+            "owner": "unobserved-io",
+            "repo": "Furtherance",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmic-text-editor",
+          "description": "WIP text editor for the COSMIC desktop environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T15:16:38Z",
+            "owner": "pop-os",
+            "repo": "cosmic-edit",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bl3_save_edit",
+          "description": "A Borderlands 3 Save/Profile editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-09T19:21:03Z",
+            "owner": "ZakisM",
+            "repo": "bl3_save_edit",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmic-applets",
+          "description": "WIP applets for cosmic-panel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T19:51:32Z",
+            "owner": "pop-os",
+            "repo": "cosmic-applets",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airshipper",
+          "description": "The official launcher for Veloren.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:13:06Z",
+            "owner": "veloren",
+            "repo": "airshipper",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmic-settings",
+          "description": "The settings app for COSMIC desktop environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:47:11Z",
+            "owner": "pop-os",
+            "repo": "cosmic-settings",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Raspirus",
+          "description": "A user- and resources-friendly rules-based malware scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-19T00:51:22Z",
+            "owner": "Raspirus",
+            "repo": "raspirus",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "offline-chess-puzzles",
+          "description": "View and solve puzzles from the lichess puzzle database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T14:46:19Z",
+            "owner": "brianch",
+            "repo": "offline-chess-puzzles",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wooting-analog-sdk",
+          "description": "An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T05:25:25Z",
+            "owner": "WootingKb",
+            "repo": "wooting-analog-sdk",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XMODITS",
+          "description": "A tool to bulk extract samples from tracker modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-26T20:04:02Z",
+            "owner": "B0ney",
+            "repo": "xmodits",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slimevr-wrangler",
+          "description": "An app that lets you use Joy-Cons as SlimeVR trackers, enabling you to make a full body tracking system!.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-13T00:33:13Z",
+            "owner": "carl-anders",
+            "repo": "slimevr-wrangler",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmic-launcher",
+          "description": "Frontend for Pop Launcher, a modular IPC-based desktop launcher service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T18:26:21Z",
+            "owner": "pop-os",
+            "repo": "cosmic-launcher",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "linkage",
+          "description": "A typing tutor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-07T02:28:05Z",
+            "owner": "linkage-rs",
+            "repo": "linkage",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced_layershell",
+          "description": "Layershell binding for iced",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T14:21:52Z",
+            "owner": "waycrate",
+            "repo": "exwlshelleventloop",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smmdb-client",
+          "description": "Save file editor for Super Mario Maker 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-04T22:21:05Z",
+            "owner": "Tarnadas",
+            "repo": "smmdb-client",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESLauncher2",
+          "description": "A launcher for Endless Sky.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-07T11:38:03Z",
+            "owner": "EndlessSkyCommunity",
+            "repo": "ESLauncher2",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuzzr",
+          "description": "a P2P platform for publishing, curating, and browsing content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-04T00:36:16Z",
+            "owner": "FuzzrNet",
+            "repo": "Fuzzr",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "revault-gui",
+          "description": "GUI for the Revault daemon, a Bitcoin valut architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-08-02T08:57:48Z",
+            "owner": "revault",
+            "repo": "revault-gui",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "enclone",
+          "description": "Accurate and user-friendly computational tool for clonal grouping to study the adaptive immune system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-07T20:41:25Z",
+            "owner": "10XGenomics",
+            "repo": "enclone",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Icon Browser",
+          "description": "A simple application that allows browsing the full list of regular Material Icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-16T22:42:49Z",
+            "owner": "BB-301",
+            "repo": "iced-material-icon-browser",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tolstack",
+          "description": "1D tolerance analysis tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-01-05T11:31:07Z",
+            "owner": "aevyrie",
+            "repo": "tolstack",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "super_clipboard",
+          "description": "A clipboard manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-02T01:21:58Z",
+            "owner": "SergioRibera",
+            "repo": "super_clipboard",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microlaunch",
+          "description": "A native linux launcher for Final Fantasy XIV Online.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-03-22T06:35:51Z",
+            "owner": "eorzeatools",
+            "repo": "microlaunch",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amphitheatre Desktop",
+          "description": "An open source desktop application for Amphitheatre.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T02:37:27Z",
+            "owner": "amphitheatre-app",
+            "repo": "desktop",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frostbyte Terminal",
+          "description": "Yakuake inspired dropdown terminal emulator. Supports X11, Wayland and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-13T16:37:34Z",
+            "owner": "Rahn-IT",
+            "repo": "frostbyte_terminal",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yt-dl-gui",
+          "description": "A GUI for youtube-dl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-04-06T12:54:06Z",
+            "owner": "hristogochev",
+            "repo": "youtube-dl-gui",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animated GIF Maker",
+          "description": "A simple FFmpeg-based animated GIF generator application built using Iced.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-20T21:29:14Z",
+            "owner": "BB-301",
+            "repo": "rust-iced-gif-maker",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Projects Using iced"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nih-plug",
+          "description": "A framework for creating VST3 and CLAP plugins with an iced frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-10T15:10:42Z",
+            "owner": "robbert-vdh",
+            "repo": "nih-plug",
+            "stars": 2937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plotters-iced",
+          "description": "An iced backend for the plotters library for both native and wasm applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-11T11:32:52Z",
+            "owner": "Joylei",
+            "repo": "plotters-iced",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bevy_iced",
+          "description": "Use iced apps in your Bevy application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-07-01T08:02:50Z",
+            "owner": "tasgon",
+            "repo": "bevy_iced",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmic Time",
+          "description": "An animation toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-10T01:32:55Z",
+            "owner": "pop-os",
+            "repo": "cosmic-time",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anim-rs",
+          "description": "Framework-independent animation library. Has integrations for iced.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-01-01T09:28:48Z",
+            "owner": "Joylei",
+            "repo": "anim-rs",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iced_aw",
+          "description": "An assortment of additional widgets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-31T23:46:30Z",
+            "owner": "iced-rs",
+            "repo": "iced_aw",
+            "stars": 676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced_audio",
+          "description": "Widgets for audio applications such as VST / LV2 plugins",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-29T23:35:43Z",
+            "owner": "iced-rs",
+            "repo": "iced_audio",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced_video_player",
+          "description": "Composable component to play videos in an iced app leveraging GStreamer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-05T14:43:27Z",
+            "owner": "jazzfool",
+            "repo": "iced_video_player",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced_term",
+          "description": "Terminal emulator widget powered by ICED framework and alacritty terminal backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T13:19:51Z",
+            "owner": "kemokempo",
+            "repo": "iced_term",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced_code_editor",
+          "description": "A fully-featured code editor widget with syntax highlighting, line numbers, text selection, and comprehensive keyboard navigation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-04T11:50:52Z",
+            "owner": "LuDog71FR",
+            "repo": "iced-code-editor",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced_gif",
+          "description": "A gif widget for iced",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-09T17:14:32Z",
+            "owner": "tarkah",
+            "repo": "iced_gif",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frozen_term",
+          "description": "Terminal emulator component based on wezterm and combatible with any datastream.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-13T16:37:34Z",
+            "owner": "Rahn-IT",
+            "repo": "frostbyte_terminal",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced_color_picker",
+          "description": "A simple and composible color picker for iced.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-08T17:20:06Z",
+            "owner": "B0ney",
+            "repo": "iced-color-picker",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prettygooey",
+          "description": "Themed UI components for iced",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-12-29T19:13:54Z",
+            "owner": "pieterdd",
+            "repo": "prettygooey",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iced_moving_picture",
+          "description": "Animated image widgets (GIF and APNG)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-13T01:52:21Z",
+            "owner": "mtkennerly",
+            "repo": "iced-moving-picture",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Custom Widgets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "An unofficial tutorial.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T06:25:20Z",
+            "owner": "fogarecious",
+            "repo": "iced_tutorial",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The official cookbook (Also a WIP).",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-11-12T17:49:48Z",
+            "owner": "iced-rs",
+            "repo": "cookbook",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "Contributions of any kind welcome, just follow the guidelines!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "Thanks goes to these contributors!",
+      "items": [],
+      "title": "Contributors"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:47.532Z",
+    "original_repository": "iced-rs/awesome-iced",
+    "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",
+    "enhanced_repository": "enhansome/enhansome-iced",
+    "enhanced_repository_description": null,
+    "title": "Awesome Iced with stars"
+  }
+}

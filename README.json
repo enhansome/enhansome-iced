@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T03:14:27Z",
+            "last_commit": "2026-08-16T16:05:04Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40560
+            "stars": 40578
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19757
+            "stars": 19766
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T23:13:30Z",
+            "last_commit": "2026-08-16T23:20:37Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7475
+            "stars": 7478
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-16T04:24:31Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6131
+            "stars": 6136
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T09:37:12Z",
+            "last_commit": "2026-08-17T14:22:25Z",
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4406
+            "stars": 4413
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-11T23:08:17Z",
+            "last_commit": "2026-08-16T16:17:17Z",
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1527
+            "stars": 1529
           }
         },
         {
@@ -123,10 +123,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T21:20:20Z",
+            "last_commit": "2026-08-17T10:51:34Z",
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 815
+            "stars": 816
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2024-07-03T10:59:21Z",
             "owner": "greatest-ape",
             "repo": "OctaSine",
-            "stars": 801
+            "stars": 802
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-07-31T16:55:51Z",
             "owner": "wizardsardine",
             "repo": "liana",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -249,7 +249,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T01:11:27Z",
+            "last_commit": "2026-08-17T00:44:28Z",
             "owner": "veloren",
             "repo": "airshipper",
             "stars": 286
@@ -580,7 +580,7 @@
             "last_commit": "2026-05-10T15:10:42Z",
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2943
+            "stars": 2944
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2026-07-31T23:46:30Z",
             "owner": "iced-rs",
             "repo": "iced_aw",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -709,7 +709,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T14:25:35Z",
+            "last_commit": "2026-08-16T18:36:21Z",
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
             "stars": 44
@@ -834,7 +834,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:35:35.205Z",
+    "last_updated": "2026-08-17T14:41:05.898Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",
     "enhanced_repository": "enhansome/enhansome-iced",

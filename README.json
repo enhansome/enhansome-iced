@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T16:05:04Z",
+            "last_commit": "2026-08-17T23:02:38Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40578
+            "stars": 40590
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19766
+            "stars": 19773
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T23:20:37Z",
+            "last_commit": "2026-08-17T22:24:13Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7478
+            "stars": 7480
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-16T04:24:31Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6136
+            "stars": 6139
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T14:22:25Z",
+            "last_commit": "2026-08-18T10:30:58Z",
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4413
+            "stars": 4415
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-16T16:17:17Z",
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1529
+            "stars": 1530
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T10:51:34Z",
+            "last_commit": "2026-08-18T14:33:16Z",
             "owner": "pop-os",
             "repo": "cosmic-comp",
             "stars": 816
@@ -207,7 +207,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-29T15:16:38Z",
+            "last_commit": "2026-08-18T13:49:10Z",
             "owner": "pop-os",
             "repo": "cosmic-edit",
             "stars": 343
@@ -235,7 +235,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T19:51:32Z",
+            "last_commit": "2026-08-18T12:06:43Z",
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 308
@@ -263,7 +263,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T21:02:28Z",
+            "last_commit": "2026-08-18T12:08:01Z",
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 252
@@ -347,7 +347,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T15:29:48Z",
+            "last_commit": "2026-08-18T12:04:06Z",
             "owner": "pop-os",
             "repo": "cosmic-launcher",
             "stars": 155
@@ -375,7 +375,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T07:10:59Z",
+            "last_commit": "2026-08-18T14:03:42Z",
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
             "stars": 147
@@ -580,7 +580,7 @@
             "last_commit": "2026-05-10T15:10:42Z",
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2944
+            "stars": 2946
           }
         },
         {
@@ -667,7 +667,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-29T23:35:43Z",
+            "last_commit": "2026-08-17T23:01:06Z",
             "owner": "iced-rs",
             "repo": "iced_audio",
             "stars": 223
@@ -684,7 +684,7 @@
             "last_commit": "2026-04-05T14:43:27Z",
             "owner": "jazzfool",
             "repo": "iced_video_player",
-            "stars": 206
+            "stars": 207
           }
         },
         {
@@ -695,7 +695,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T13:19:51Z",
+            "last_commit": "2026-08-17T18:49:44Z",
             "owner": "kemokempo",
             "repo": "iced_term",
             "stars": 176
@@ -709,7 +709,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T18:36:21Z",
+            "last_commit": "2026-08-18T09:47:13Z",
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
             "stars": 44
@@ -834,7 +834,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:41:05.898Z",
+    "last_updated": "2026-08-18T14:48:32.680Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",
     "enhanced_repository": "enhansome/enhansome-iced",

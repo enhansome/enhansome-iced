@@ -12,10 +12,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-19T12:14:58Z",
+            "last_commit": "2026-08-19T13:36:08Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40598
+            "stars": 40599
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-07-25T16:43:34Z",
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 988
+            "stars": 989
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 442204350,
             "language": "Rust",
-            "last_commit": "2026-08-18T21:50:10Z",
+            "last_commit": "2026-08-19T14:06:55Z",
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 252
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 731973928,
             "language": "Rust",
-            "last_commit": "2026-08-19T09:57:15Z",
+            "last_commit": "2026-08-19T13:15:44Z",
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
             "stars": 147
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:25.224Z",
+    "last_updated": "2026-08-19T14:49:53.645Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_id": 612054689,
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",

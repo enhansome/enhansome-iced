@@ -12,10 +12,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-21T09:41:14Z",
+            "last_commit": "2026-08-22T03:14:23Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40633
+            "stars": 40640
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19790
+            "stars": 19798
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-20T22:14:04Z",
+            "last_commit": "2026-08-21T22:12:27Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7488
+            "stars": 7491
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T04:24:31Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6156
+            "stars": 6161
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 481230318,
             "language": "Rust",
-            "last_commit": "2026-08-21T09:36:49Z",
+            "last_commit": "2026-08-22T11:12:58Z",
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4422
+            "stars": 4424
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 438790077,
             "language": "Rust",
-            "last_commit": "2026-08-20T22:39:02Z",
+            "last_commit": "2026-08-21T20:56:17Z",
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 817
+            "stars": 818
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-07-03T10:59:21Z",
             "owner": "greatest-ape",
             "repo": "OctaSine",
-            "stars": 803
+            "stars": 804
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 442204350,
             "language": "Rust",
-            "last_commit": "2026-08-20T21:09:01Z",
+            "last_commit": "2026-08-21T18:45:19Z",
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 253
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-21T14:16:39Z",
             "owner": "brianch",
             "repo": "offline-chess-puzzles",
-            "stars": 218
+            "stars": 219
           }
         },
         {
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 731973928,
             "language": "Rust",
-            "last_commit": "2026-08-21T10:33:01Z",
+            "last_commit": "2026-08-22T07:59:57Z",
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
             "stars": 147
@@ -621,7 +621,7 @@
             "last_commit": "2026-05-10T15:10:42Z",
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2947
+            "stars": 2948
           }
         },
         {
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 1119626185,
             "language": "Rust",
-            "last_commit": "2026-08-21T10:58:02Z",
+            "last_commit": "2026-08-21T15:29:49Z",
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
             "stars": 45
@@ -858,7 +858,7 @@
             "last_commit": "2026-07-17T06:25:20Z",
             "owner": "fogarecious",
             "repo": "iced_tutorial",
-            "stars": 327
+            "stars": 328
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:50:08.090Z",
+    "last_updated": "2026-08-22T14:34:52.494Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_id": 612054689,
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",

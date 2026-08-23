@@ -12,10 +12,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-22T03:14:23Z",
+            "last_commit": "2026-08-22T21:32:07Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40640
+            "stars": 40654
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19798
+            "stars": 19804
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-21T22:12:27Z",
+            "last_commit": "2026-08-23T03:28:50Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7491
+            "stars": 7494
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T04:24:31Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6161
+            "stars": 6165
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 481230318,
             "language": "Rust",
-            "last_commit": "2026-08-22T11:12:58Z",
+            "last_commit": "2026-08-23T06:53:51Z",
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4424
+            "stars": 4425
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-21T18:45:19Z",
             "owner": "pop-os",
             "repo": "cosmic-settings",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 383923715,
             "language": "Rust",
-            "last_commit": "2026-08-21T14:16:39Z",
+            "last_commit": "2026-08-23T00:06:32Z",
             "owner": "brianch",
             "repo": "offline-chess-puzzles",
             "stars": 219
@@ -330,7 +330,7 @@
             "last_commit": "2026-07-28T05:25:25Z",
             "owner": "WootingKb",
             "repo": "wooting-analog-sdk",
-            "stars": 217
+            "stars": 218
           }
         },
         {
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 731973928,
             "language": "Rust",
-            "last_commit": "2026-08-22T07:59:57Z",
+            "last_commit": "2026-08-23T14:28:50Z",
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
             "stars": 147
@@ -621,7 +621,7 @@
             "last_commit": "2026-05-10T15:10:42Z",
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2948
+            "stars": 2949
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-21T15:29:49Z",
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:34:52.494Z",
+    "last_updated": "2026-08-23T14:35:53.164Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_id": 612054689,
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",

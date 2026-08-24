@@ -12,10 +12,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-22T21:32:07Z",
+            "last_commit": "2026-08-23T21:19:27Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40654
+            "stars": 40670
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19804
+            "stars": 19810
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-23T03:28:50Z",
+            "last_commit": "2026-08-23T22:12:12Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7494
+            "stars": 7498
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T04:24:31Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6165
+            "stars": 6170
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 481230318,
             "language": "Rust",
-            "last_commit": "2026-08-23T06:53:51Z",
+            "last_commit": "2026-08-24T06:35:57Z",
             "owner": "squidowl",
             "repo": "halloy",
             "stars": 4425
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-20T17:54:22Z",
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1531
+            "stars": 1534
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2024-09-17T14:57:45Z",
             "owner": "ajour",
             "repo": "ajour",
-            "stars": 1008
+            "stars": 1007
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-21T20:56:17Z",
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 818
+            "stars": 820
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-04-24T14:03:56Z",
             "owner": "onagre-launcher",
             "repo": "onagre",
-            "stars": 675
+            "stars": 676
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-07-10T17:44:37Z",
             "owner": "BKSalman",
             "repo": "ytdlp-gui",
-            "stars": 476
+            "stars": 477
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-07-31T16:55:51Z",
             "owner": "wizardsardine",
             "repo": "liana",
-            "stars": 458
+            "stars": 457
           }
         },
         {
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 731973928,
             "language": "Rust",
-            "last_commit": "2026-08-23T14:28:50Z",
+            "last_commit": "2026-08-24T13:29:10Z",
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
             "stars": 147
@@ -621,7 +621,7 @@
             "last_commit": "2026-05-10T15:10:42Z",
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2949
+            "stars": 2950
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-08-17T23:01:06Z",
             "owner": "iced-rs",
             "repo": "iced_audio",
-            "stars": 224
+            "stars": 225
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-21T15:29:49Z",
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
-            "stars": 46
+            "stars": 47
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:35:53.164Z",
+    "last_updated": "2026-08-24T14:23:48.502Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_id": 612054689,
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",

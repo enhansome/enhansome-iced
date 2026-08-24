@@ -12,7 +12,7 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-23T21:19:27Z",
+            "last_commit": "2026-08-24T14:23:59Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
             "stars": 40670
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19810
+            "stars": 19811
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-07-10T17:44:37Z",
             "owner": "BKSalman",
             "repo": "ytdlp-gui",
-            "stars": 477
+            "stars": 476
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:48.502Z",
+    "last_updated": "2026-08-24T14:56:25.296Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_id": 612054689,
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",

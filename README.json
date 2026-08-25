@@ -12,10 +12,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:23:59Z",
+            "last_commit": "2026-08-24T21:33:38Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40670
+            "stars": 40678
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19811
+            "stars": 19814
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:12:12Z",
+            "last_commit": "2026-08-24T22:13:58Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7498
+            "stars": 7499
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T04:24:31Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6170
+            "stars": 6173
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 481230318,
             "language": "Rust",
-            "last_commit": "2026-08-24T06:35:57Z",
+            "last_commit": "2026-08-25T04:25:44Z",
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4425
+            "stars": 4426
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-20T17:54:22Z",
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1534
+            "stars": 1535
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 438790077,
             "language": "Rust",
-            "last_commit": "2026-08-21T20:56:17Z",
+            "last_commit": "2026-08-24T23:26:21Z",
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 820
+            "stars": 821
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-04-24T14:03:56Z",
             "owner": "onagre-launcher",
             "repo": "onagre",
-            "stars": 676
+            "stars": 675
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-07-10T17:44:37Z",
             "owner": "BKSalman",
             "repo": "ytdlp-gui",
-            "stars": 476
+            "stars": 475
           }
         },
         {
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 598770901,
             "language": "Rust",
-            "last_commit": "2026-08-21T01:02:21Z",
+            "last_commit": "2026-08-24T18:52:38Z",
             "owner": "pop-os",
             "repo": "cosmic-edit",
             "stars": 343
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 399619388,
             "language": "Rust",
-            "last_commit": "2026-08-21T14:13:48Z",
+            "last_commit": "2026-08-24T18:50:46Z",
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 308
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 442204350,
             "language": "Rust",
-            "last_commit": "2026-08-21T18:45:19Z",
+            "last_commit": "2026-08-25T00:32:46Z",
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 254
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-21T15:29:49Z",
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
-            "stars": 47
+            "stars": 48
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:56:25.296Z",
+    "last_updated": "2026-08-25T06:15:32.218Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_id": 612054689,
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",

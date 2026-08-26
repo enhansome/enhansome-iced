@@ -12,10 +12,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-24T21:33:38Z",
+            "last_commit": "2026-08-25T22:48:32Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40684
+            "stars": 40728
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19812
+            "stars": 19817
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-24T22:13:58Z",
+            "last_commit": "2026-08-25T23:14:23Z",
             "owner": "veloren",
             "repo": "veloren",
             "stars": 7503
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T04:24:31Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6173
+            "stars": 6180
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 481230318,
             "language": "Rust",
-            "last_commit": "2026-08-25T04:25:44Z",
+            "last_commit": "2026-08-26T03:05:49Z",
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4426
+            "stars": 4429
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-20T17:54:22Z",
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1534
+            "stars": 1535
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 438790077,
             "language": "Rust",
-            "last_commit": "2026-08-24T23:26:21Z",
+            "last_commit": "2026-08-25T19:48:51Z",
             "owner": "pop-os",
             "repo": "cosmic-comp",
             "stars": 821
@@ -165,7 +165,7 @@
             "last_commit": "2025-04-24T14:03:56Z",
             "owner": "onagre-launcher",
             "repo": "onagre",
-            "stars": 675
+            "stars": 676
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 516003390,
             "language": "Rust",
-            "last_commit": "2026-08-25T13:15:38Z",
+            "last_commit": "2026-08-26T12:50:28Z",
             "owner": "wizardsardine",
             "repo": "liana",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 598770901,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:52:38Z",
+            "last_commit": "2026-08-25T19:48:55Z",
             "owner": "pop-os",
             "repo": "cosmic-edit",
             "stars": 343
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 399619388,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:50:46Z",
+            "last_commit": "2026-08-25T19:48:43Z",
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 308
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 442204350,
             "language": "Rust",
-            "last_commit": "2026-08-25T14:56:58Z",
+            "last_commit": "2026-08-25T19:49:30Z",
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 254
@@ -365,21 +365,6 @@
         },
         {
           "node_type": "item",
-          "title": "cosmic-launcher",
-          "description": "Frontend for Pop Launcher, a modular IPC-based desktop launcher service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 451542858,
-            "language": "Rust",
-            "last_commit": "2026-08-19T23:54:26Z",
-            "owner": "pop-os",
-            "repo": "cosmic-launcher",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
           "title": "linkage",
           "description": "A typing tutor.",
           "children": [],
@@ -391,6 +376,21 @@
             "owner": "linkage-rs",
             "repo": "linkage",
             "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmic-launcher",
+          "description": "Frontend for Pop Launcher, a modular IPC-based desktop launcher service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 451542858,
+            "language": "Rust",
+            "last_commit": "2026-08-25T19:49:12Z",
+            "owner": "pop-os",
+            "repo": "cosmic-launcher",
+            "stars": 154
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-05-10T15:10:42Z",
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2950
+            "stars": 2951
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-08-17T18:49:44Z",
             "owner": "kemokempo",
             "repo": "iced_term",
-            "stars": 177
+            "stars": 178
           }
         },
         {
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:00:09.532Z",
+    "last_updated": "2026-08-26T14:58:21.612Z",
     "original_repository": "iced-rs/awesome-iced",
     "original_repository_id": 612054689,
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",

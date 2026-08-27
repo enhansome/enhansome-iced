@@ -12,10 +12,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:21:57Z",
+            "last_commit": "2026-08-27T20:53:59Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40847
+            "stars": 40883
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19823
+            "stars": 19822
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:30:48Z",
+            "last_commit": "2026-08-27T23:22:38Z",
             "owner": "veloren",
             "repo": "veloren",
             "stars": 7504
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 273743952,
             "language": "Rust",
-            "last_commit": "2026-08-16T04:24:31Z",
+            "last_commit": "2026-08-27T16:35:23Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
             "stars": 6184
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 481230318,
             "language": "Rust",
-            "last_commit": "2026-08-27T06:33:56Z",
+            "last_commit": "2026-08-27T18:46:45Z",
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4431
+            "stars": 4434
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-20T17:54:22Z",
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1535
+            "stars": 1537
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-26T18:07:11Z",
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 822
+            "stars": 821
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 399619388,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:21:14Z",
+            "last_commit": "2026-08-27T18:25:58Z",
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 308
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 442204350,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:18:56Z",
+            "last_commit": "2026-08-27T17:45:52Z",
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 254
@@ -881,7 +881,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:05.317Z",
+    "last_updated": "2026-08-27T23:45:49.981Z",
     "original_repository_info": {
       "archived": false,
       "id": 612054689,

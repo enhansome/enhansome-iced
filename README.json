@@ -12,10 +12,10 @@
             "archived": false,
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-25T22:48:32Z",
+            "last_commit": "2026-08-26T20:21:57Z",
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40728
+            "stars": 40847
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-08-02T16:16:12Z",
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19817
+            "stars": 19823
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-25T23:14:23Z",
+            "last_commit": "2026-08-27T11:30:48Z",
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7503
+            "stars": 7504
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T04:24:31Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6180
+            "stars": 6184
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 481230318,
             "language": "Rust",
-            "last_commit": "2026-08-26T03:05:49Z",
+            "last_commit": "2026-08-27T06:33:56Z",
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4429
+            "stars": 4431
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 438790077,
             "language": "Rust",
-            "last_commit": "2026-08-25T19:48:51Z",
+            "last_commit": "2026-08-26T18:07:11Z",
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 516003390,
             "language": "Rust",
-            "last_commit": "2026-08-26T12:50:28Z",
+            "last_commit": "2026-08-27T07:20:05Z",
             "owner": "wizardsardine",
             "repo": "liana",
-            "stars": 458
+            "stars": 457
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-02-17T06:35:41Z",
             "owner": "unobserved-io",
             "repo": "Furtherance",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 399619388,
             "language": "Rust",
-            "last_commit": "2026-08-25T19:48:43Z",
+            "last_commit": "2026-08-26T20:21:14Z",
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 308
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 442204350,
             "language": "Rust",
-            "last_commit": "2026-08-25T19:49:30Z",
+            "last_commit": "2026-08-26T20:18:56Z",
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 254
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-23T00:06:32Z",
             "owner": "brianch",
             "repo": "offline-chess-puzzles",
-            "stars": 219
+            "stars": 220
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 451542858,
             "language": "Rust",
-            "last_commit": "2026-08-25T19:49:12Z",
+            "last_commit": "2026-08-26T22:11:49Z",
             "owner": "pop-os",
             "repo": "cosmic-launcher",
             "stars": 154
@@ -621,7 +621,7 @@
             "last_commit": "2026-05-10T15:10:42Z",
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2951
+            "stars": 2953
           }
         },
         {
@@ -858,7 +858,7 @@
             "last_commit": "2026-07-17T06:25:20Z",
             "owner": "fogarecious",
             "repo": "iced_tutorial",
-            "stars": 328
+            "stars": 329
           }
         },
         {
@@ -881,9 +881,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:58:21.612Z",
-    "original_repository": "iced-rs/awesome-iced",
-    "original_repository_id": 612054689,
+    "last_updated": "2026-08-27T11:47:05.317Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 612054689,
+      "language": "Python",
+      "last_commit": "2026-02-07T03:35:16Z",
+      "owner": "iced-rs",
+      "repo": "awesome-iced",
+      "stars": 505
+    },
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",
     "enhanced_repository": "enhansome/enhansome-iced",
     "enhanced_repository_description": null,

@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+            "homepage": "https://sniffnet.app",
             "id": 519895363,
             "language": "Rust",
-            "last_commit": "2026-08-28T20:40:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:13:49Z",
+            "open_issues": 65,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 40924
+            "stars": 40926,
+            "topics": [
+              "application",
+              "gui",
+              "iced",
+              "linux",
+              "macos",
+              "network",
+              "network-analysis",
+              "network-monitoring",
+              "networking",
+              "packet-analyser",
+              "packet-capture",
+              "packet-sniffer",
+              "pcap",
+              "rust",
+              "rust-crate",
+              "security",
+              "tool",
+              "utility",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -26,12 +51,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+            "homepage": null,
             "id": 414585797,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-02T16:16:12Z",
+            "open_issues": 611,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 19829
+            "stars": 19830,
+            "topics": [
+              "adb",
+              "android",
+              "debloat",
+              "privacy"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -42,12 +77,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.",
+            "homepage": "https://veloren.net",
             "id": 135222855,
             "language": "Rust",
-            "last_commit": "2026-08-28T22:29:35Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T01:16:29Z",
+            "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7510
+            "stars": 7509,
+            "topics": [
+              "3d",
+              "cube",
+              "cubeworld",
+              "game",
+              "gfx-rs",
+              "multiplayer",
+              "procedural-generation",
+              "rpg",
+              "rust",
+              "terrain",
+              "voxel"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -58,12 +110,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backup tool for PC game saves",
+            "homepage": null,
             "id": 273743952,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:35:23Z",
+            "open_issues": 62,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6193
+            "stars": 6192,
+            "topics": [
+              "backup",
+              "cli",
+              "cross-platform",
+              "games",
+              "gui",
+              "saves",
+              "steam",
+              "steam-deck",
+              "steam-proton",
+              "steamdeck",
+              "videogames"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -74,12 +143,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IRC application written in Rust",
+            "homepage": "https://halloy.chat/",
             "id": 481230318,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:48:51Z",
+            "open_issues": 224,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4438
+            "stars": 4438,
+            "topics": [
+              "iced",
+              "irc",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -90,12 +168,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flashy Synthesia Like Software For Linux, Windows and MacOs",
+            "homepage": "https://polymeilex.github.io/Neothesia/",
             "id": 166126309,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T18:35:28Z",
+            "open_issues": 45,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1538
+            "stars": 1538,
+            "topics": [
+              "midi",
+              "rust",
+              "synthesia",
+              "wgpu"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -106,12 +194,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A World of Warcraft addon manager written in Rust.",
+            "homepage": null,
             "id": 274977053,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-17T14:57:45Z",
+            "open_issues": 41,
             "owner": "ajour",
             "repo": "ajour",
-            "stars": 1007
+            "stars": 1007,
+            "topics": [
+              "addon",
+              "addon-managers",
+              "manager",
+              "rust",
+              "world-of-warcraft",
+              "wow"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -122,12 +222,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rust based cross-platform ECU diagnostics and car hacking application, utilizing the passthru protocol",
+            "homepage": null,
             "id": 301683359,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-25T16:43:34Z",
+            "open_issues": 25,
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 990
+            "stars": 990,
+            "topics": [
+              "daimler",
+              "diagnostics",
+              "diagnostics-application",
+              "dpdu",
+              "ecu",
+              "hacking",
+              "j2534",
+              "kwp2000",
+              "macchina-m2",
+              "mercedes-cbf",
+              "odb",
+              "open-vehicle-diagnostics",
+              "ovd",
+              "protocol",
+              "reverse-engineering-framework",
+              "rust",
+              "socketcan",
+              "uds",
+              "vehicle"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -138,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compositor for the COSMIC desktop environment",
+            "homepage": null,
             "id": 438790077,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:20:26Z",
+            "open_issues": 960,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 821
+            "stars": 821,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -154,12 +284,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frequency modulation synthesizer plugin (VST2, CLAP). Runs on macOS, Windows and Linux.",
+            "homepage": "https://www.octasine.com/",
             "id": 197913230,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-03T10:59:21Z",
+            "open_issues": 30,
             "owner": "greatest-ape",
             "repo": "OctaSine",
-            "stars": 804
+            "stars": 804,
+            "topics": [
+              "audio",
+              "clap",
+              "dsp",
+              "linux",
+              "macos",
+              "plugin",
+              "rust",
+              "synthesizer",
+              "vst",
+              "vst2",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -170,12 +317,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred ",
+            "homepage": null,
             "id": 309763297,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-04-24T14:03:56Z",
+            "open_issues": 12,
             "owner": "onagre-launcher",
             "repo": "onagre",
-            "stars": 676
+            "stars": 676,
+            "topics": [
+              "alfred",
+              "app-launcher",
+              "application-launcher",
+              "dmenu",
+              "launcher",
+              "rofi",
+              "wayland",
+              "wofi",
+              "xorg"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -186,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a very simple GUI for ytdlp written in Rust",
+            "homepage": null,
             "id": 548600456,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-10T17:44:37Z",
+            "open_issues": 5,
             "owner": "BKSalman",
             "repo": "ytdlp-gui",
-            "stars": 475
+            "stars": 475,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -202,12 +369,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The missing safety net for your coins",
+            "homepage": "https://wizardsardine.com/liana",
             "id": 516003390,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T07:20:05Z",
+            "open_issues": 301,
             "owner": "wizardsardine",
             "repo": "liana",
-            "stars": 457
+            "stars": 457,
+            "topics": [
+              "bitcoin",
+              "miniscript",
+              "safety",
+              "wallet"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -218,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track your time without being tracked",
+            "homepage": null,
             "id": 460901189,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-17T06:35:41Z",
+            "open_issues": 7,
             "owner": "unobserved-io",
             "repo": "Furtherance",
-            "stars": 396
+            "stars": 396,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -234,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "COSMIC Text Editor",
+            "homepage": null,
             "id": 598770901,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T19:48:55Z",
+            "open_issues": 132,
             "owner": "pop-os",
             "repo": "cosmic-edit",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -250,12 +437,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Borderlands 3 Save/Profile Editor for Windows/MacOS and Linux!",
+            "homepage": null,
             "id": 378495296,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-09T19:21:03Z",
+            "open_issues": 20,
             "owner": "ZakisM",
             "repo": "bl3_save_edit",
-            "stars": 341
+            "stars": 341,
+            "topics": [
+              "bl3",
+              "borderlands",
+              "borderlands3",
+              "editor",
+              "gaming",
+              "profile",
+              "save"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -266,12 +466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WIP applets for cosmic-panel",
+            "homepage": null,
             "id": 399619388,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T14:18:14Z",
+            "open_issues": 358,
             "owner": "pop-os",
             "repo": "cosmic-applets",
-            "stars": 308
+            "stars": 308,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -282,12 +487,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[mirror of https://gitlab.com/veloren/airshipper] The official Veloren launcher! This repository is a mirror. Please submit all PRs and issues on our GitLab page",
+            "homepage": "https://veloren.net/download",
             "id": 236050194,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T12:30:23Z",
+            "open_issues": 50,
             "owner": "veloren",
             "repo": "airshipper",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "game",
+              "launcher",
+              "rust",
+              "veloren"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -298,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "COSMIC Settings",
+            "homepage": null,
             "id": 442204350,
             "language": "Rust",
-            "last_commit": "2026-08-28T23:10:44Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T00:33:13Z",
+            "open_issues": 523,
             "owner": "pop-os",
             "repo": "cosmic-settings",
-            "stars": 254
+            "stars": 254,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -314,12 +534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A user- and resources-friendly rules-based malware scanner",
+            "homepage": "https://raspirus.deno.dev",
             "id": 539550390,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-19T00:51:22Z",
+            "open_issues": 12,
             "owner": "Raspirus",
             "repo": "raspirus",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "antivirus",
+              "rust",
+              "usb-scan",
+              "virus-scanning",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -330,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to view and solve puzzles from the lichess puzzle database",
+            "homepage": null,
             "id": 383923715,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T00:06:32Z",
+            "open_issues": 11,
             "owner": "brianch",
             "repo": "offline-chess-puzzles",
-            "stars": 220
+            "stars": 220,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -346,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native support for Analog Keyboards #WootDev",
+            "homepage": null,
             "id": 194277328,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-28T05:25:25Z",
+            "open_issues": 28,
             "owner": "WootingKb",
             "repo": "wooting-analog-sdk",
-            "stars": 218
+            "stars": 218,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -362,12 +603,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to rip samples from tracker modules. Supports IT, XM, S3M, MOD, UMX and MPTM formats.",
+            "homepage": null,
             "id": 505396389,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-26T20:04:02Z",
+            "open_issues": 6,
             "owner": "B0ney",
             "repo": "xmodits",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "audio",
+              "fasttracker2",
+              "gui",
+              "iced",
+              "iced-rs",
+              "impulsetracker",
+              "protracker",
+              "ripper",
+              "rust",
+              "screamtracker",
+              "tracker-music",
+              "xmodits"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -378,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Joycons as SlimeVR trackers with this middleware application",
+            "homepage": null,
             "id": 435983809,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-13T00:33:13Z",
+            "open_issues": 15,
             "owner": "carl-anders",
             "repo": "slimevr-wrangler",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -394,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop typing tutor, written in Rust",
+            "homepage": null,
             "id": 361319405,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-07T02:28:05Z",
+            "open_issues": 9,
             "owner": "linkage-rs",
             "repo": "linkage",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -410,12 +679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "COSMIC launcher",
+            "homepage": null,
             "id": 451542858,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T22:11:49Z",
+            "open_issues": 100,
             "owner": "pop-os",
             "repo": "cosmic-launcher",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -426,12 +700,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "winit like binding for layershell and sessionlock",
+            "homepage": null,
             "id": 731973928,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:04:23Z",
+            "open_issues": 9,
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "layershell",
+              "sessionlock",
+              "sway",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -442,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 281574194,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-01-04T22:21:05Z",
+            "open_issues": 19,
             "owner": "Tarnadas",
             "repo": "smmdb-client",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -458,12 +747,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The next generation Endless Sky Launcher.",
+            "homepage": null,
             "id": 254372799,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-07T11:38:03Z",
+            "open_issues": 34,
             "owner": "EndlessSkyCommunity",
             "repo": "ESLauncher2",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "endless-sky"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -474,12 +770,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "P2P platform for publishing content, self-hosting, decentralized curation, and more.",
+            "homepage": "https://fuzzr.net",
             "id": 318002600,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2023-02-04T00:36:16Z",
+            "open_issues": 26,
             "owner": "FuzzrNet",
             "repo": "Fuzzr",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "censorship-resistance",
+              "ipfs",
+              "p2p",
+              "rust",
+              "rust-gui",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -490,12 +798,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Revault terminal",
+            "homepage": "https://revault.dev",
             "id": 295982192,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-08-02T08:57:48Z",
+            "open_issues": 47,
             "owner": "revault",
             "repo": "revault-gui",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "bitcoin",
+              "custody",
+              "gui",
+              "revault",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -506,12 +825,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VDJ Clonotyping & Analysis Tools",
+            "homepage": "https://10xgenomics.github.io/enclone/",
             "id": 231675458,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-07T20:41:25Z",
+            "open_issues": 4,
             "owner": "10XGenomics",
             "repo": "enclone",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "bioinformatics"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -522,12 +848,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Iced application that I wrote as a learning activity, which allows you to browse the full list of regular Material Icons.",
+            "homepage": null,
             "id": 692559107,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-09-16T22:42:49Z",
+            "open_issues": 1,
             "owner": "BB-301",
             "repo": "iced-material-icon-browser",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "cross-platform-gui",
+              "iced-rs",
+              "rust",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -538,12 +874,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "1D tolerance analysis for mechanical engineers",
+            "homepage": "https://aevyrie.github.io/tolstack/book",
             "id": 256335733,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-01-05T11:31:07Z",
+            "open_issues": 24,
             "owner": "aevyrie",
             "repo": "tolstack",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "analysis",
+              "application",
+              "mechanical-engineering",
+              "tolerance"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -554,12 +900,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage your clipboard history with a beautiful and simple interface",
+            "homepage": null,
             "id": 614960828,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-06-02T01:21:58Z",
+            "open_issues": 7,
             "owner": "SergioRibera",
             "repo": "super_clipboard",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "clipboard",
+              "gui-application",
+              "hacktoberfest",
+              "linux",
+              "rust",
+              "rust-lang",
+              "wayland",
+              "x11"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -570,12 +930,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A native Linux launcher for FINAL FANTASY XIV Online written in Rust",
+            "homepage": null,
             "id": 476013650,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-22T06:35:51Z",
+            "open_issues": 0,
             "owner": "eorzeatools",
             "repo": "microlaunch",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "ffxiv",
+              "iced",
+              "launcher",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -586,12 +956,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source GUI application that enables you to interact with Amphitheatre",
+            "homepage": null,
             "id": 615223587,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T02:45:32Z",
+            "open_issues": 6,
             "owner": "amphitheatre-app",
             "repo": "desktop",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "cross-platform",
+              "desktop-app",
+              "gui",
+              "iced-rs",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -602,12 +983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A yakuake-style dropdown terminal for windows and linux",
+            "homepage": null,
             "id": 979565130,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-13T16:37:34Z",
+            "open_issues": 1,
             "owner": "Rahn-IT",
             "repo": "frostbyte_terminal",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -618,12 +1004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform GUI for youtube-dl made with Iced",
+            "homepage": null,
             "id": 590651747,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-06T12:54:06Z",
+            "open_issues": 0,
             "owner": "hristogochev",
             "repo": "youtube-dl-gui",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -634,12 +1025,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple FFmpeg-based animated GIF generator application built using Iced",
+            "homepage": null,
             "id": 707291584,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-10-20T21:29:14Z",
+            "open_issues": 0,
             "owner": "BB-301",
             "repo": "rust-iced-gif-maker",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "animated-gif",
+              "ffmpeg",
+              "ffmpeg-wrapper",
+              "gui",
+              "iced",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         }
@@ -656,12 +1059,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself",
+            "homepage": null,
             "id": 451613476,
             "language": "Rust",
+            "license": "ISC",
             "last_commit": "2026-05-10T15:10:42Z",
+            "open_issues": 122,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2953
+            "stars": 2954,
+            "topics": [
+              "clap",
+              "framework",
+              "nih-plug",
+              "plugin",
+              "plugin-framework",
+              "rust",
+              "vst3"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -672,12 +1088,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":chart_with_upwards_trend: Iced backend for Plotters",
+            "homepage": null,
             "id": 375019973,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-12-11T11:32:52Z",
+            "open_issues": 8,
             "owner": "Joylei",
             "repo": "plotters-iced",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "chart",
+              "gui",
+              "iced",
+              "plot",
+              "plotters",
+              "rust",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -688,12 +1117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Iced integration for Bevy",
+            "homepage": null,
             "id": 446685219,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-01T08:02:50Z",
+            "open_issues": 9,
             "owner": "tasgon",
             "repo": "bevy_iced",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -704,12 +1138,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animation Library for https://github.com/iced-rs/iced and https://github.com/pop-os/cosmic-epoch",
+            "homepage": "https://crates.io/crates/cosmic-time",
             "id": 590748506,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-06-10T01:32:55Z",
+            "open_issues": 2,
             "owner": "pop-os",
             "repo": "cosmic-time",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "animation",
+              "cosmic",
+              "iced-rs",
+              "linux",
+              "pop-os",
+              "rust",
+              "rust-lang",
+              "system76"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -720,12 +1168,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hourglass: A framework independent animation library for rust, works nicely with Iced and the others",
+            "homepage": null,
             "id": 378105407,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-01-01T09:28:48Z",
+            "open_issues": 0,
             "owner": "Joylei",
             "repo": "anim-rs",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "animation",
+              "iced",
+              "rust",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         }
@@ -742,12 +1200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Additional widgets for the Iced GUI library",
+            "homepage": null,
             "id": 316249229,
             "language": "Rust",
-            "last_commit": "2026-07-31T23:46:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:33:40Z",
+            "open_issues": 15,
             "owner": "iced-rs",
             "repo": "iced_aw",
-            "stars": 678
+            "stars": 679,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -758,12 +1221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension to the Iced GUI library with useful widgets for audio applications",
+            "homepage": null,
             "id": 259743416,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-17T23:01:06Z",
+            "open_issues": 6,
             "owner": "iced-rs",
             "repo": "iced_audio",
-            "stars": 225
+            "stars": 225,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -774,12 +1242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video player component for Iced",
+            "homepage": null,
             "id": 288734650,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-05T14:43:27Z",
+            "open_issues": 4,
             "owner": "jazzfool",
             "repo": "iced_video_player",
-            "stars": 207
+            "stars": 207,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -790,12 +1263,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal emulator widget powered by ICED framework and alacritty terminal backend.",
+            "homepage": null,
             "id": 653624273,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-17T18:49:44Z",
+            "open_issues": 4,
             "owner": "kemokempo",
             "repo": "iced_term",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "alacritty",
+              "gui",
+              "iced",
+              "rust",
+              "terminal",
+              "ui-components",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -806,12 +1292,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This crate provides a fully-featured code editor widget with syntax highlighting, line numbers, text selection, and comprehensive keyboard navigation for the Iced GUI framework.",
+            "homepage": "https://crates.io/crates/iced-code-editor",
             "id": 1119626185,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:59:56Z",
+            "open_issues": 1,
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "codeeditor",
+              "gui",
+              "iced",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -822,12 +1318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 594592026,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-01-09T17:14:32Z",
+            "open_issues": 7,
             "owner": "tarkah",
             "repo": "iced_gif",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -838,12 +1339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A yakuake-style dropdown terminal for windows and linux",
+            "homepage": null,
             "id": 979565130,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-04-13T16:37:34Z",
+            "open_issues": 1,
             "owner": "Rahn-IT",
             "repo": "frostbyte_terminal",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -854,12 +1360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple color picker widget for iced",
+            "homepage": null,
             "id": 1051889101,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-08T17:20:06Z",
+            "open_issues": 2,
             "owner": "B0ney",
             "repo": "iced-color-picker",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -870,12 +1381,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Themed UI components for the iced GUI library on Windows, Mac and Linux.",
+            "homepage": null,
             "id": 728401841,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-12-29T19:13:54Z",
+            "open_issues": 0,
             "owner": "pieterdd",
             "repo": "prettygooey",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -886,12 +1402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show animated images with the Iced GUI framework",
+            "homepage": null,
             "id": 1115302785,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-12-13T01:52:21Z",
+            "open_issues": 0,
             "owner": "mtkennerly",
             "repo": "iced-moving-picture",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         }
@@ -908,12 +1429,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial of Iced library.",
+            "homepage": null,
             "id": 728705818,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-07-17T06:25:20Z",
+            "open_issues": 4,
             "owner": "fogarecious",
             "repo": "iced_tutorial",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "iced",
+              "rust",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -924,12 +1454,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Not (mostly) crab recipes",
+            "homepage": null,
             "id": 378330260,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-11-12T17:49:48Z",
+            "open_issues": 2,
             "owner": "iced-rs",
             "repo": "cookbook",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         }
@@ -938,15 +1473,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:49.588Z",
+    "last_updated": "2026-08-29T04:44:38.465Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",
+      "homepage": null,
       "id": 612054689,
       "language": "Python",
+      "license": "NOASSERTION",
       "last_commit": "2026-02-07T03:35:16Z",
+      "open_issues": 11,
       "owner": "iced-rs",
       "repo": "awesome-iced",
-      "stars": 506
+      "stars": 506,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "ad22ef9b689d9aa8fb4f24f5416e9f8fed22ce4c",
     "enhanced_repository": "enhansome/enhansome-iced",

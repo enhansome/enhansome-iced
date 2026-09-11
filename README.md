@@ -18,7 +18,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 <!-- description -->
 
-[iced](https://github.com/iced-rs/iced) ⭐ 31,471 | 🐛 491 | 🌐 Rust | 📅 2026-09-10 is a cross-platform GUI library for Rust focused on simplicity and type-safety inspired by [Elm](https://elm-lang.org/).
+[iced](https://github.com/iced-rs/iced) ⭐ 31,479 | 🐛 490 | 🌐 Rust | 📅 2026-09-11 is a cross-platform GUI library for Rust focused on simplicity and type-safety inspired by [Elm](https://elm-lang.org/).
 
 </div>
 
@@ -35,33 +35,33 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 ## Projects Using iced
 
-* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 41,073 | 🐛 63 | 🌐 Rust | 📅 2026-09-09 - A network traffic monitoring tool.
-* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [universal-android-debloater](https://github.com/0x192/universal-android-debloater) ⭐ 19,904 | 🐛 613 | 🌐 Rust | 📅 2024-08-02 - Debloat non-rooted Android devices using ADB.
-* <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic"> [veloren](https://github.com/veloren/veloren) ⭐ 7,550 | 🐛 4 | 🌐 Rust | 📅 2026-09-10 - Multiplayer voxel RPG written in Rust. Uses iced for its default graphical client frontend.
-* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 6,254 | 🐛 61 | 🌐 Rust | 📅 2026-09-06 - A tool for backing up PC game save data.
-* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [Halloy](https://github.com/squidowl/halloy) ⭐ 4,473 | 🐛 225 | 🌐 Rust | 📅 2026-09-10 - An open-source IRC client.
-* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [Neothesia](https://github.com/PolyMeilex/Neothesia) ⭐ 1,545 | 🐛 45 | 🌐 Rust | 📅 2026-09-09 - Flashy Synthesia Like Software For Linux, Windows and MacOs.
+* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [sniffnet](https://github.com/GyulyVGC/sniffnet) ⭐ 41,082 | 🐛 64 | 🌐 Rust | 📅 2026-09-11 - A network traffic monitoring tool.
+* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [universal-android-debloater](https://github.com/0x192/universal-android-debloater) ⭐ 19,906 | 🐛 613 | 🌐 Rust | 📅 2024-08-02 - Debloat non-rooted Android devices using ADB.
+* <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic"> [veloren](https://github.com/veloren/veloren) ⭐ 7,555 | 🐛 4 | 🌐 Rust | 📅 2026-09-10 - Multiplayer voxel RPG written in Rust. Uses iced for its default graphical client frontend.
+* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 6,254 | 🐛 61 | 🌐 Rust | 📅 2026-09-11 - A tool for backing up PC game save data.
+* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [Halloy](https://github.com/squidowl/halloy) ⭐ 4,473 | 🐛 225 | 🌐 Rust | 📅 2026-09-11 - An open-source IRC client.
+* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [Neothesia](https://github.com/PolyMeilex/Neothesia) ⭐ 1,546 | 🐛 45 | 🌐 Rust | 📅 2026-09-09 - Flashy Synthesia Like Software For Linux, Windows and MacOs.
 * <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic"> [ajour](https://github.com/ajour/ajour) ⚠️ Archived - A World of Warcraft addon manager.
-* <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic"> [OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag) ⭐ 1,000 | 🐛 25 | 🌐 Rust | 📅 2025-07-25 - Vehicle ECU diagnostic platform and car 'hacking' .
-* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-comp](https://github.com/pop-os/cosmic-comp) ⭐ 824 | 🐛 981 | 🌐 Rust | 📅 2026-09-10 - Compositor for the COSMIC desktop environment.
-* <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic"> [OctaSine](https://github.com/greatest-ape/OctaSine) ⭐ 808 | 🐛 30 | 🌐 Rust | 📅 2024-07-03 - Cross-platform FM Synth plugin (VST2 & CLAP). Uses iced for its GUI.
-* <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [onagre](https://github.com/oknozor/onagre) ⭐ 677 | 🐛 12 | 🌐 Rust | 📅 2025-04-24 - General purpose application launcher for X and wayland inspired by rof/wofi and alfred.
+* <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic"> [OpenVehicleDiag](https://github.com/rnd-ash/OpenVehicleDiag) ⭐ 1,001 | 🐛 25 | 🌐 Rust | 📅 2025-07-25 - Vehicle ECU diagnostic platform and car 'hacking' .
+* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-comp](https://github.com/pop-os/cosmic-comp) ⭐ 824 | 🐛 985 | 🌐 Rust | 📅 2026-09-11 - Compositor for the COSMIC desktop environment.
+* <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic"> [OctaSine](https://github.com/greatest-ape/OctaSine) ⭐ 810 | 🐛 30 | 🌐 Rust | 📅 2024-07-03 - Cross-platform FM Synth plugin (VST2 & CLAP). Uses iced for its GUI.
+* <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [onagre](https://github.com/oknozor/onagre) ⭐ 676 | 🐛 12 | 🌐 Rust | 📅 2025-04-24 - General purpose application launcher for X and wayland inspired by rof/wofi and alfred.
 * <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [ytdlp-gui](https://github.com/BKSalman/ytdlp-gui) ⭐ 475 | 🐛 5 | 🌐 Rust | 📅 2026-07-10 - A GUI for yt-dlp, a fork of youtube-dl with additional features.
-* <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [liana](https://github.com/wizardsardine/liana) ⭐ 460 | 🐛 317 | 🌐 Rust | 📅 2026-09-10 - A Bitcoin wallet with a unique 'safety net' - a timelocked recovery path for all of your coins.
+* <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [liana](https://github.com/wizardsardine/liana) ⭐ 460 | 🐛 316 | 🌐 Rust | 📅 2026-09-10 - A Bitcoin wallet with a unique 'safety net' - a timelocked recovery path for all of your coins.
 * <img src="https://img.shields.io/badge/0.14-blue?logo=iced&style=plastic"> [Furtherance](https://github.com/unobserved-io/Furtherance) ⭐ 393 | 🐛 7 | 🌐 Rust | 📅 2026-02-17 - A privacy-focused time-tracking app and pomodoro timer
 * <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-text-editor](https://github.com/pop-os/cosmic-text-editor) ⭐ 345 | 🐛 143 | 🌐 Rust | 📅 2026-09-09 - WIP text editor for the COSMIC desktop environment.
 * <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic"> [bl3\_save\_edit](https://github.com/ZakisM/bl3_save_edit) ⭐ 343 | 🐛 20 | 🌐 Rust | 📅 2023-04-09 - A Borderlands 3 Save/Profile editor.
-* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-applets](https://github.com/pop-os/cosmic-applets) ⭐ 314 | 🐛 361 | 🌐 Rust | 📅 2026-09-09 - WIP applets for cosmic-panel.
+* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-applets](https://github.com/pop-os/cosmic-applets) ⭐ 314 | 🐛 363 | 🌐 Rust | 📅 2026-09-09 - WIP applets for cosmic-panel.
 * <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [Airshipper](https://github.com/veloren/Airshipper) ⭐ 287 | 🐛 50 | 🌐 Rust | 📅 2026-08-25 - The official launcher for Veloren.
-* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-settings](https://github.com/pop-os/cosmic-settings) ⭐ 255 | 🐛 518 | 🌐 Rust | 📅 2026-09-10 - The settings app for COSMIC desktop environment.
+* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-settings](https://github.com/pop-os/cosmic-settings) ⭐ 255 | 🐛 519 | 🌐 Rust | 📅 2026-09-11 - The settings app for COSMIC desktop environment.
 * <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [Raspirus](https://github.com/Raspirus/Raspirus) ⭐ 225 | 🐛 12 | 🌐 Rust | 📅 2026-02-19 - A user- and resources-friendly rules-based malware scanner.
-* <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic"> [wooting-analog-sdk](https://github.com/WootingKb/wooting-analog-sdk) ⭐ 221 | 🐛 31 | 🌐 Rust | 📅 2026-07-28 - An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.
+* <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic"> [wooting-analog-sdk](https://github.com/WootingKb/wooting-analog-sdk) ⭐ 222 | 🐛 31 | 🌐 Rust | 📅 2026-07-28 - An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.
 * <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [offline-chess-puzzles](https://github.com/brianch/offline-chess-puzzles) ⭐ 220 | 🐛 11 | 🌐 Rust | 📅 2026-08-23 - View and solve puzzles from the lichess puzzle database.
 * <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [XMODITS](https://github.com/B0ney/xmodits) ⭐ 170 | 🐛 6 | 🌐 Rust | 📅 2024-08-26 - A tool to bulk extract samples from tracker modules.
-* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [slimevr-wrangler](https://github.com/carl-anders/slimevr-wrangler) ⭐ 162 | 🐛 15 | 🌐 Rust | 📅 2025-02-13 - An app that lets you use Joy-Cons as SlimeVR trackers, enabling you to make a full body tracking system!.
+* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [slimevr-wrangler](https://github.com/carl-anders/slimevr-wrangler) ⚠️ Archived - An app that lets you use Joy-Cons as SlimeVR trackers, enabling you to make a full body tracking system!.
 * <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic"> [linkage](https://github.com/linkage-rs/linkage) ⭐ 156 | 🐛 9 | 🌐 Rust | 📅 2026-03-07 - A typing tutor.
-* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-launcher](https://github.com/pop-os/cosmic-launcher) ⭐ 154 | 🐛 102 | 🌐 Rust | 📅 2026-09-09 - Frontend for [Pop Launcher](https://github.com/pop-os/launcher) ⭐ 283 | 🐛 77 | 🌐 Rust | 📅 2026-09-09, a modular IPC-based desktop launcher service.
-* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [iced\_layershell](https://github.com/waycrate/exwlshelleventloop) ⭐ 149 | 🐛 8 | 🌐 Rust | 📅 2026-09-10 - Layershell binding for iced
+* <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic"> [cosmic-launcher](https://github.com/pop-os/cosmic-launcher) ⭐ 154 | 🐛 102 | 🌐 Rust | 📅 2026-09-10 - Frontend for [Pop Launcher](https://github.com/pop-os/launcher) ⭐ 283 | 🐛 77 | 🌐 Rust | 📅 2026-09-09, a modular IPC-based desktop launcher service.
+* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [iced\_layershell](https://github.com/waycrate/exwlshelleventloop) ⭐ 149 | 🐛 7 | 🌐 Rust | 📅 2026-09-11 - Layershell binding for iced
 * <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic"> [smmdb-client](https://github.com/Tarnadas/smmdb-client) ⭐ 80 | 🐛 19 | 🌐 Rust | 📅 2024-01-04 - Save file editor for Super Mario Maker 2.
 * <img src="https://img.shields.io/badge/0.12-blue?logo=iced&style=plastic"> [ESLauncher2](https://github.com/EndlessSkyCommunity/ESLauncher2) ⭐ 67 | 🐛 34 | 🌐 Rust | 📅 2026-03-07 - A launcher for [Endless Sky](https://endless-sky.github.io/).
 * <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic"> [Fuzzr](https://github.com/FuzzrNet/Fuzzr) ⭐ 65 | 🐛 26 | 🌐 Rust | 📅 2023-02-04 - a P2P platform for publishing, curating, and browsing content.
@@ -71,7 +71,7 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 * <img src="https://img.shields.io/badge/0.2-blue?logo=iced&style=plastic"> [tolstack](https://github.com/aevyrie/tolstack) ⚠️ Archived - 1D tolerance analysis tool.
 * <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic"> [super\_clipboard](https://github.com/SergioRibera/super_clipboard) ⭐ 39 | 🐛 7 | 🌐 Rust | 📅 2024-06-02 - A clipboard manager.
 * <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic"> [microlaunch](https://github.com/eorzeatools/microlaunch) ⚠️ Archived - A native linux launcher for Final Fantasy XIV Online.
-* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) ⭐ 17 | 🐛 6 | 🌐 Rust | 📅 2026-08-21 - An open source desktop application for Amphitheatre.
+* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [Amphitheatre Desktop](https://github.com/amphitheatre-app/desktop) ⭐ 17 | 🐛 6 | 🌐 Rust | 📅 2026-09-11 - An open source desktop application for Amphitheatre.
 * <img src="https://img.shields.io/badge/master-blue?logo=iced&style=plastic">  [Frostbyte Terminal](https://github.com/Rahn-IT/frostbyte_terminal) ⭐ 17 | 🐛 1 | 🌐 Rust | 📅 2026-09-06 - Yakuake inspired dropdown terminal emulator. Supports X11, Wayland and Windows.
 * <img src="https://img.shields.io/badge/0.8-blue?logo=iced&style=plastic"> [yt-dl-gui](https://github.com/hristogochev/youtube-dl-gui) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2023-04-06 - A GUI for youtube-dl.
 * <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic"> [Animated GIF Maker](https://github.com/BB-301/rust-iced-gif-maker) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2023-10-20 - A simple FFmpeg-based animated GIF generator application built using Iced.
@@ -81,9 +81,9 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 ## Integrations
 
-* <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic"> [nih-plug](https://github.com/robbert-vdh/nih-plug) ⭐ 2,964 | 🐛 121 | 🌐 Rust | 📅 2026-09-03 - A framework for creating VST3 and CLAP plugins with an iced frontend.
-* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [plotters-iced](https://github.com/Joylei/plotters-iced) ⭐ 206 | 🐛 8 | 🌐 Rust | 📅 2025-12-11 - An iced backend for the [plotters library](https://github.com/plotters-rs/plotters) ⭐ 4,621 | 🐛 184 | 🌐 Rust | 📅 2026-04-13 for both native and wasm applications.
-* <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic"> [bevy\_iced](https://github.com/tasgon/bevy_iced) ⭐ 145 | 🐛 9 | 🌐 Rust | 📅 2024-07-01 - Use iced apps in your [Bevy](https://github.com/bevyengine/bevy/) ⭐ 48,125 | 🐛 3,433 | 🌐 Rust | 📅 2026-09-09 application.
+* <img src="https://img.shields.io/badge/0.4-blue?logo=iced&style=plastic"> [nih-plug](https://github.com/robbert-vdh/nih-plug) ⭐ 2,965 | 🐛 121 | 🌐 Rust | 📅 2026-09-03 - A framework for creating VST3 and CLAP plugins with an iced frontend.
+* <img src="https://img.shields.io/badge/0.13-blue?logo=iced&style=plastic"> [plotters-iced](https://github.com/Joylei/plotters-iced) ⭐ 206 | 🐛 8 | 🌐 Rust | 📅 2025-12-11 - An iced backend for the [plotters library](https://github.com/plotters-rs/plotters) ⭐ 4,622 | 🐛 184 | 🌐 Rust | 📅 2026-04-13 for both native and wasm applications.
+* <img src="https://img.shields.io/badge/0.10-blue?logo=iced&style=plastic"> [bevy\_iced](https://github.com/tasgon/bevy_iced) ⭐ 145 | 🐛 9 | 🌐 Rust | 📅 2024-07-01 - Use iced apps in your [Bevy](https://github.com/bevyengine/bevy/) ⭐ 48,137 | 🐛 3,437 | 🌐 Rust | 📅 2026-09-11 application.
 * <img src="https://img.shields.io/badge/0.9-blue?logo=iced&style=plastic"> [Cosmic Time](https://github.com/pop-os/cosmic-time) ⭐ 115 | 🐛 2 | 🌐 Rust | 📅 2026-06-10 - An animation toolkit.
 * <img src="https://img.shields.io/badge/0.3-blue?logo=iced&style=plastic"> [anim-rs](https://github.com/Joylei/anim-rs) ⭐ 65 | 🐛 0 | 🌐 Rust | 📅 2022-01-01 - Framework-independent animation library. Has integrations for iced.
 
@@ -128,4 +128,4 @@ A curated list of custom widgets, resources, integrations, and projects made wit
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

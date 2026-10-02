@@ -19,7 +19,7 @@
             "open_issues": 63,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 41312,
+            "stars": 41318,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 616,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20006,
+            "stars": 20009,
             "topics": [
               "adb",
               "android",
@@ -83,11 +83,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T08:18:01Z",
+            "last_commit": "2026-10-01T22:14:57Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7591,
+            "stars": 7592,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 61,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6330,
+            "stars": 6331,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T18:26:54Z",
+            "last_commit": "2026-10-02T16:10:04Z",
             "open_issues": 233,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4517,
+            "stars": 4519,
             "topics": [
               "iced",
               "irc",
@@ -175,7 +175,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-29T20:44:43Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
             "stars": 1558,
@@ -269,11 +269,11 @@
             "id": 438790077,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T17:09:19Z",
-            "open_issues": 989,
+            "last_commit": "2026-10-02T14:52:17Z",
+            "open_issues": 990,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 829,
+            "stars": 830,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -376,10 +376,10 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-29T09:03:46Z",
-            "open_issues": 343,
+            "open_issues": 346,
             "owner": "wizardsardine",
             "repo": "liana",
-            "stars": 465,
+            "stars": 464,
             "topics": [
               "bitcoin",
               "miniscript",
@@ -476,7 +476,7 @@
             "open_issues": 361,
             "owner": "pop-os",
             "repo": "cosmic-applets",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -497,7 +497,7 @@
             "open_issues": 50,
             "owner": "veloren",
             "repo": "airshipper",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "game",
               "launcher",
@@ -530,6 +530,27 @@
         },
         {
           "node_type": "item",
+          "title": "wooting-analog-sdk",
+          "description": "An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native support for Analog Keyboards #WootDev",
+            "homepage": null,
+            "id": 194277328,
+            "language": "Rust",
+            "license": "MPL-2.0",
+            "last_commit": "2026-07-28T05:25:25Z",
+            "open_issues": 31,
+            "owner": "WootingKb",
+            "repo": "wooting-analog-sdk",
+            "stars": 227,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:49.588Z"
+        },
+        {
+          "node_type": "item",
           "title": "Raspirus",
           "description": "A user- and resources-friendly rules-based malware scanner.",
           "children": [],
@@ -552,27 +573,6 @@
               "virus-scanning",
               "yara"
             ]
-          },
-          "first_seen": "2026-08-28T23:31:49.588Z"
-        },
-        {
-          "node_type": "item",
-          "title": "wooting-analog-sdk",
-          "description": "An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Native support for Analog Keyboards #WootDev",
-            "homepage": null,
-            "id": 194277328,
-            "language": "Rust",
-            "license": "MPL-2.0",
-            "last_commit": "2026-07-28T05:25:25Z",
-            "open_issues": 31,
-            "owner": "WootingKb",
-            "repo": "wooting-analog-sdk",
-            "stars": 226,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -668,7 +668,7 @@
             "open_issues": 9,
             "owner": "linkage-rs",
             "repo": "linkage",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -706,7 +706,7 @@
             "id": 731973928,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-30T00:53:38Z",
+            "last_commit": "2026-10-02T18:20:10Z",
             "open_issues": 9,
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
@@ -884,7 +884,7 @@
             "open_issues": 24,
             "owner": "aevyrie",
             "repo": "tolstack",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "analysis",
               "application",
@@ -962,7 +962,7 @@
             "id": 615223587,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T12:20:43Z",
+            "last_commit": "2026-10-02T03:27:54Z",
             "open_issues": 6,
             "owner": "amphitheatre-app",
             "repo": "desktop",
@@ -1069,7 +1069,7 @@
             "open_issues": 122,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2982,
+            "stars": 2983,
             "topics": [
               "clap",
               "framework",
@@ -1210,7 +1210,7 @@
             "open_issues": 16,
             "owner": "iced-rs",
             "repo": "iced_aw",
-            "stars": 687,
+            "stars": 688,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1231,7 +1231,7 @@
             "open_issues": 6,
             "owner": "iced-rs",
             "repo": "iced_audio",
-            "stars": 227,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:29:57.151Z",
+    "last_updated": "2026-10-02T19:14:11.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",
@@ -1486,7 +1486,7 @@
       "open_issues": 13,
       "owner": "iced-rs",
       "repo": "awesome-iced",
-      "stars": 512,
+      "stars": 514,
       "topics": [
         "awesome",
         "awesome-list"

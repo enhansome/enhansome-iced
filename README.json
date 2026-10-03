@@ -19,7 +19,7 @@
             "open_issues": 63,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 41316,
+            "stars": 41319,
             "topics": [
               "app",
               "application",
@@ -87,7 +87,7 @@
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7593,
+            "stars": 7594,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 61,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6333,
+            "stars": 6339,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T20:28:18Z",
-            "open_issues": 231,
+            "last_commit": "2026-10-03T17:09:26Z",
+            "open_issues": 233,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4521,
+            "stars": 4524,
             "topics": [
               "iced",
               "irc",
@@ -204,7 +204,7 @@
             "open_issues": 25,
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 1008,
+            "stars": 1009,
             "topics": [
               "daimler",
               "diagnostics",
@@ -270,10 +270,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-02T14:52:17Z",
-            "open_issues": 990,
+            "open_issues": 993,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 831,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -376,7 +376,7 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-29T09:03:46Z",
-            "open_issues": 346,
+            "open_issues": 348,
             "owner": "wizardsardine",
             "repo": "liana",
             "stars": 464,
@@ -405,7 +405,7 @@
             "open_issues": 6,
             "owner": "unobserved-io",
             "repo": "Furtherance",
-            "stars": 394,
+            "stars": 395,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -426,7 +426,7 @@
             "open_issues": 141,
             "owner": "pop-os",
             "repo": "cosmic-edit",
-            "stars": 347,
+            "stars": 348,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -520,11 +520,38 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-01T17:17:35Z",
-            "open_issues": 520,
+            "open_issues": 521,
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 256,
             "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:49.588Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Raspirus",
+          "description": "A user- and resources-friendly rules-based malware scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A user- and resources-friendly rules-based malware scanner",
+            "homepage": "https://raspirus.deno.dev",
+            "id": 539550390,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-02-19T00:51:22Z",
+            "open_issues": 12,
+            "owner": "Raspirus",
+            "repo": "raspirus",
+            "stars": 227,
+            "topics": [
+              "antivirus",
+              "rust",
+              "usb-scan",
+              "virus-scanning",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -546,33 +573,6 @@
             "repo": "wooting-analog-sdk",
             "stars": 227,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:49.588Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Raspirus",
-          "description": "A user- and resources-friendly rules-based malware scanner.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A user- and resources-friendly rules-based malware scanner",
-            "homepage": "https://raspirus.deno.dev",
-            "id": 539550390,
-            "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-02-19T00:51:22Z",
-            "open_issues": 12,
-            "owner": "Raspirus",
-            "repo": "raspirus",
-            "stars": 226,
-            "topics": [
-              "antivirus",
-              "rust",
-              "usb-scan",
-              "virus-scanning",
-              "yara"
-            ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -706,11 +706,11 @@
             "id": 731973928,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:20:10Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-03T14:27:37Z",
+            "open_issues": 8,
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "layershell",
               "sessionlock",
@@ -1069,7 +1069,7 @@
             "open_issues": 122,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2981,
+            "stars": 2982,
             "topics": [
               "clap",
               "framework",
@@ -1210,7 +1210,7 @@
             "open_issues": 16,
             "owner": "iced-rs",
             "repo": "iced_aw",
-            "stars": 689,
+            "stars": 690,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:13.226Z",
+    "last_updated": "2026-10-03T17:54:40.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",

@@ -15,11 +15,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T16:19:46Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-12T19:44:33Z",
+            "open_issues": 66,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 41424,
+            "stars": 41464,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 616,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20021,
+            "stars": 20034,
             "topics": [
               "adb",
               "android",
@@ -83,11 +83,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T22:14:33Z",
+            "last_commit": "2026-10-12T16:15:44Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7614,
+            "stars": 7618,
             "topics": [
               "3d",
               "cube",
@@ -117,10 +117,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-11T02:33:34Z",
-            "open_issues": 62,
+            "open_issues": 64,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6390,
+            "stars": 6407,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T18:34:30Z",
-            "open_issues": 245,
+            "last_commit": "2026-10-12T19:11:16Z",
+            "open_issues": 249,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4537,
+            "stars": 4545,
             "topics": [
               "iced",
               "irc",
@@ -174,11 +174,11 @@
             "id": 166126309,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T22:55:35Z",
+            "last_commit": "2026-10-11T21:57:56Z",
             "open_issues": 43,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1563,
+            "stars": 1565,
             "topics": [
               "midi",
               "rust",
@@ -269,11 +269,11 @@
             "id": 438790077,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T16:41:54Z",
+            "last_commit": "2026-10-12T19:41:56Z",
             "open_issues": 998,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 833,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -375,11 +375,11 @@
             "id": 516003390,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T13:24:40Z",
+            "last_commit": "2026-10-12T12:40:56Z",
             "open_issues": 354,
             "owner": "wizardsardine",
             "repo": "liana",
-            "stars": 468,
+            "stars": 466,
             "topics": [
               "bitcoin",
               "miniscript",
@@ -473,7 +473,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-07T19:59:03Z",
-            "open_issues": 361,
+            "open_issues": 364,
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 317,
@@ -519,11 +519,32 @@
             "id": 442204350,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T19:59:36Z",
-            "open_issues": 526,
+            "last_commit": "2026-10-12T16:53:47Z",
+            "open_issues": 527,
             "owner": "pop-os",
             "repo": "cosmic-settings",
-            "stars": 256,
+            "stars": 257,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:49.588Z"
+        },
+        {
+          "node_type": "item",
+          "title": "wooting-analog-sdk",
+          "description": "An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native support for Analog Keyboards #WootDev",
+            "homepage": null,
+            "id": 194277328,
+            "language": "Rust",
+            "license": "MPL-2.0",
+            "last_commit": "2026-07-28T05:25:25Z",
+            "open_issues": 31,
+            "owner": "WootingKb",
+            "repo": "wooting-analog-sdk",
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -552,27 +573,6 @@
               "virus-scanning",
               "yara"
             ]
-          },
-          "first_seen": "2026-08-28T23:31:49.588Z"
-        },
-        {
-          "node_type": "item",
-          "title": "wooting-analog-sdk",
-          "description": "An SDK for analog keyboards. Uses iced for its virtual keyboard simulator.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Native support for Analog Keyboards #WootDev",
-            "homepage": null,
-            "id": 194277328,
-            "language": "Rust",
-            "license": "MPL-2.0",
-            "last_commit": "2026-07-28T05:25:25Z",
-            "open_issues": 31,
-            "owner": "WootingKb",
-            "repo": "wooting-analog-sdk",
-            "stars": 227,
-            "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
         },
@@ -613,7 +613,7 @@
             "open_issues": 6,
             "owner": "B0ney",
             "repo": "xmodits",
-            "stars": 171,
+            "stars": 170,
             "topics": [
               "audio",
               "fasttracker2",
@@ -654,27 +654,6 @@
         },
         {
           "node_type": "item",
-          "title": "cosmic-launcher",
-          "description": "Frontend for Pop Launcher, a modular IPC-based desktop launcher service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "COSMIC launcher",
-            "homepage": null,
-            "id": 451542858,
-            "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-07T19:59:19Z",
-            "open_issues": 102,
-            "owner": "pop-os",
-            "repo": "cosmic-launcher",
-            "stars": 159,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:49.588Z"
-        },
-        {
-          "node_type": "item",
           "title": "linkage",
           "description": "A typing tutor.",
           "children": [],
@@ -690,6 +669,27 @@
             "owner": "linkage-rs",
             "repo": "linkage",
             "stars": 159,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:49.588Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cosmic-launcher",
+          "description": "Frontend for Pop Launcher, a modular IPC-based desktop launcher service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "COSMIC launcher",
+            "homepage": null,
+            "id": 451542858,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-07T19:59:19Z",
+            "open_issues": 103,
+            "owner": "pop-os",
+            "repo": "cosmic-launcher",
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1069,7 +1069,7 @@
             "open_issues": 122,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2989,
+            "stars": 2990,
             "topics": [
               "clap",
               "framework",
@@ -1231,7 +1231,7 @@
             "open_issues": 7,
             "owner": "iced-rs",
             "repo": "iced_audio",
-            "stars": 228,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1252,7 +1252,7 @@
             "open_issues": 4,
             "owner": "jazzfool",
             "repo": "iced_video_player",
-            "stars": 208,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1302,7 +1302,7 @@
             "open_issues": 1,
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
-            "stars": 53,
+            "stars": 55,
             "topics": [
               "codeeditor",
               "gui",
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:49:20.130Z",
+    "last_updated": "2026-10-12T22:07:00.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",
@@ -1486,7 +1486,7 @@
       "open_issues": 13,
       "owner": "iced-rs",
       "repo": "awesome-iced",
-      "stars": 517,
+      "stars": 518,
       "topics": [
         "awesome",
         "awesome-list"

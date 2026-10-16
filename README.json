@@ -15,11 +15,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T21:16:28Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-15T19:38:33Z",
+            "open_issues": 69,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 41553,
+            "stars": 41570,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 616,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20042,
+            "stars": 20044,
             "topics": [
               "adb",
               "android",
@@ -83,11 +83,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-15T08:18:37Z",
+            "last_commit": "2026-10-15T23:14:26Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7624,
+            "stars": 7629,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 63,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6419,
+            "stars": 6421,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T06:22:39Z",
-            "open_issues": 254,
+            "last_commit": "2026-10-16T01:54:45Z",
+            "open_issues": 259,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4548,
+            "stars": 4550,
             "topics": [
               "iced",
               "irc",
@@ -178,7 +178,7 @@
             "open_issues": 44,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1568,
+            "stars": 1570,
             "topics": [
               "midi",
               "rust",
@@ -204,7 +204,7 @@
             "open_issues": 25,
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 1015,
+            "stars": 1016,
             "topics": [
               "daimler",
               "diagnostics",
@@ -270,10 +270,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-14T21:03:03Z",
-            "open_issues": 1003,
+            "open_issues": 1008,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 832,
+            "stars": 833,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -375,8 +375,8 @@
             "id": 516003390,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T15:10:37Z",
-            "open_issues": 344,
+            "last_commit": "2026-10-16T14:27:28Z",
+            "open_issues": 343,
             "owner": "wizardsardine",
             "repo": "liana",
             "stars": 466,
@@ -473,7 +473,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T22:42:06Z",
-            "open_issues": 369,
+            "open_issues": 371,
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 317,
@@ -497,7 +497,7 @@
             "open_issues": 50,
             "owner": "veloren",
             "repo": "airshipper",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "game",
               "launcher",
@@ -520,7 +520,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-14T23:53:09Z",
-            "open_issues": 526,
+            "open_issues": 527,
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 257,
@@ -544,7 +544,7 @@
             "open_issues": 31,
             "owner": "WootingKb",
             "repo": "wooting-analog-sdk",
-            "stars": 230,
+            "stars": 231,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -844,6 +844,32 @@
         },
         {
           "node_type": "item",
+          "title": "tolstack",
+          "description": "1D tolerance analysis tool.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "1D tolerance analysis for mechanical engineers",
+            "homepage": "https://aevyrie.github.io/tolstack/book",
+            "id": 256335733,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2021-01-05T11:31:07Z",
+            "open_issues": 24,
+            "owner": "aevyrie",
+            "repo": "tolstack",
+            "stars": 46,
+            "topics": [
+              "analysis",
+              "application",
+              "mechanical-engineering",
+              "tolerance"
+            ]
+          },
+          "first_seen": "2026-08-28T23:31:49.588Z"
+        },
+        {
+          "node_type": "item",
           "title": "Material Icon Browser",
           "description": "A simple application that allows browsing the full list of regular Material Icons.",
           "children": [],
@@ -864,32 +890,6 @@
               "iced-rs",
               "rust",
               "ui"
-            ]
-          },
-          "first_seen": "2026-08-28T23:31:49.588Z"
-        },
-        {
-          "node_type": "item",
-          "title": "tolstack",
-          "description": "1D tolerance analysis tool.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "1D tolerance analysis for mechanical engineers",
-            "homepage": "https://aevyrie.github.io/tolstack/book",
-            "id": 256335733,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2021-01-05T11:31:07Z",
-            "open_issues": 24,
-            "owner": "aevyrie",
-            "repo": "tolstack",
-            "stars": 45,
-            "topics": [
-              "analysis",
-              "application",
-              "mechanical-engineering",
-              "tolerance"
             ]
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1069,7 +1069,7 @@
             "open_issues": 123,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 2994,
+            "stars": 2995,
             "topics": [
               "clap",
               "framework",
@@ -1210,7 +1210,7 @@
             "open_issues": 17,
             "owner": "iced-rs",
             "repo": "iced_aw",
-            "stars": 690,
+            "stars": 691,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1273,7 +1273,7 @@
             "open_issues": 4,
             "owner": "kemokempo",
             "repo": "iced_term",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "alacritty",
               "gui",
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:14:06.679Z",
+    "last_updated": "2026-10-16T17:59:10.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",

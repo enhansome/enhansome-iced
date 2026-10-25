@@ -19,7 +19,7 @@
             "open_issues": 59,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 41682,
+            "stars": 41693,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 615,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20245,
+            "stars": 20252,
             "topics": [
               "adb",
               "android",
@@ -83,11 +83,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T23:12:56Z",
+            "last_commit": "2026-10-24T23:15:00Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7642,
+            "stars": 7646,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 61,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6469,
+            "stars": 6474,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T04:35:25Z",
+            "last_commit": "2026-10-25T07:40:47Z",
             "open_issues": 243,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4561,
+            "stars": 4563,
             "topics": [
               "iced",
               "irc",
@@ -178,7 +178,7 @@
             "open_issues": 45,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1579,
+            "stars": 1580,
             "topics": [
               "midi",
               "rust",
@@ -204,7 +204,7 @@
             "open_issues": 25,
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 1018,
+            "stars": 1020,
             "topics": [
               "daimler",
               "diagnostics",
@@ -447,7 +447,7 @@
             "open_issues": 20,
             "owner": "ZakisM",
             "repo": "bl3_save_edit",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "bl3",
               "borderlands",
@@ -520,7 +520,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-10-23T18:47:58Z",
-            "open_issues": 532,
+            "open_issues": 535,
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 257,
@@ -565,7 +565,7 @@
             "open_issues": 12,
             "owner": "brianch",
             "repo": "offline-chess-puzzles",
-            "stars": 227,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -706,8 +706,8 @@
             "id": 731973928,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-24T16:35:05Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-25T15:41:23Z",
+            "open_issues": 10,
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
             "stars": 158,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:24:10.751Z",
+    "last_updated": "2026-10-25T17:37:11.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",

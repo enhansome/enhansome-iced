@@ -19,7 +19,7 @@
             "open_issues": 57,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 42326,
+            "stars": 42413,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 614,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20395,
+            "stars": 20406,
             "topics": [
               "adb",
               "android",
@@ -87,7 +87,7 @@
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7686,
+            "stars": 7691,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 61,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6547,
+            "stars": 6552,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T19:27:49Z",
-            "open_issues": 271,
+            "last_commit": "2026-11-11T18:35:10Z",
+            "open_issues": 274,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4602,
+            "stars": 4604,
             "topics": [
               "iced",
               "irc",
@@ -204,7 +204,7 @@
             "open_issues": 25,
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 1027,
+            "stars": 1029,
             "topics": [
               "daimler",
               "diagnostics",
@@ -270,10 +270,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-10T17:56:43Z",
-            "open_issues": 1059,
+            "open_issues": 1062,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 840,
+            "stars": 841,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -422,8 +422,8 @@
             "id": 598770901,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T19:37:16Z",
-            "open_issues": 152,
+            "last_commit": "2026-11-11T20:30:33Z",
+            "open_issues": 153,
             "owner": "pop-os",
             "repo": "cosmic-edit",
             "stars": 354,
@@ -519,7 +519,7 @@
             "id": 442204350,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T19:22:44Z",
+            "last_commit": "2026-11-10T21:25:57Z",
             "open_issues": 543,
             "owner": "pop-os",
             "repo": "cosmic-settings",
@@ -565,7 +565,7 @@
             "open_issues": 12,
             "owner": "brianch",
             "repo": "offline-chess-puzzles",
-            "stars": 229,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -654,6 +654,27 @@
         },
         {
           "node_type": "item",
+          "title": "cosmic-launcher",
+          "description": "Frontend for Pop Launcher, a modular IPC-based desktop launcher service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "COSMIC launcher",
+            "homepage": null,
+            "id": 451542858,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-06T23:38:07Z",
+            "open_issues": 103,
+            "owner": "pop-os",
+            "repo": "cosmic-launcher",
+            "stars": 161,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:31:49.588Z"
+        },
+        {
+          "node_type": "item",
           "title": "linkage",
           "description": "A typing tutor.",
           "children": [],
@@ -675,27 +696,6 @@
         },
         {
           "node_type": "item",
-          "title": "cosmic-launcher",
-          "description": "Frontend for Pop Launcher, a modular IPC-based desktop launcher service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "COSMIC launcher",
-            "homepage": null,
-            "id": 451542858,
-            "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-06T23:38:07Z",
-            "open_issues": 103,
-            "owner": "pop-os",
-            "repo": "cosmic-launcher",
-            "stars": 160,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:49.588Z"
-        },
-        {
-          "node_type": "item",
           "title": "iced_layershell",
           "description": "Layershell binding for iced",
           "children": [],
@@ -706,8 +706,8 @@
             "id": 731973928,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T07:12:46Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-11T00:52:40Z",
+            "open_issues": 9,
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
             "stars": 158,
@@ -1069,7 +1069,7 @@
             "open_issues": 129,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 3032,
+            "stars": 3033,
             "topics": [
               "clap",
               "framework",
@@ -1207,7 +1207,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-29T18:11:57Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "iced-rs",
             "repo": "iced_aw",
             "stars": 692,
@@ -1270,7 +1270,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-09T17:13:42Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "kemokempo",
             "repo": "iced_term",
             "stars": 180,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:46:53.483Z",
+    "last_updated": "2026-11-11T21:20:50.433Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",
@@ -1486,7 +1486,7 @@
       "open_issues": 13,
       "owner": "iced-rs",
       "repo": "awesome-iced",
-      "stars": 525,
+      "stars": 524,
       "topics": [
         "awesome",
         "awesome-list"

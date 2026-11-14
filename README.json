@@ -15,11 +15,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T14:30:59Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-14T03:13:57Z",
+            "open_issues": 60,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 42717,
+            "stars": 42776,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 614,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20423,
+            "stars": 20431,
             "topics": [
               "adb",
               "android",
@@ -87,7 +87,7 @@
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7694,
+            "stars": 7695,
             "topics": [
               "3d",
               "cube",
@@ -117,10 +117,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-09T04:20:30Z",
-            "open_issues": 62,
+            "open_issues": 64,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6562,
+            "stars": 6563,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T01:55:00Z",
+            "last_commit": "2026-11-14T18:31:06Z",
             "open_issues": 277,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4613,
+            "stars": 4619,
             "topics": [
               "iced",
               "irc",
@@ -178,7 +178,7 @@
             "open_issues": 43,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1607,
+            "stars": 1608,
             "topics": [
               "midi",
               "rust",
@@ -270,10 +270,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-13T12:45:31Z",
-            "open_issues": 1065,
+            "open_issues": 1066,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 841,
+            "stars": 842,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -376,7 +376,7 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-13T16:34:28Z",
-            "open_issues": 344,
+            "open_issues": 345,
             "owner": "wizardsardine",
             "repo": "liana",
             "stars": 472,
@@ -493,7 +493,7 @@
             "id": 236050194,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T03:43:15Z",
+            "last_commit": "2026-11-14T04:14:57Z",
             "open_issues": 50,
             "owner": "veloren",
             "repo": "airshipper",
@@ -520,7 +520,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-10T21:25:57Z",
-            "open_issues": 543,
+            "open_issues": 546,
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 259,
@@ -544,7 +544,7 @@
             "open_issues": 30,
             "owner": "WootingKb",
             "repo": "wooting-analog-sdk",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -689,7 +689,7 @@
             "open_issues": 9,
             "owner": "linkage-rs",
             "repo": "linkage",
-            "stars": 161,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1069,7 +1069,7 @@
             "open_issues": 129,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 3035,
+            "stars": 3036,
             "topics": [
               "clap",
               "framework",
@@ -1408,7 +1408,7 @@
             "id": 1115302785,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2025-12-13T01:52:21Z",
+            "last_commit": "2026-11-14T05:56:41Z",
             "open_issues": 0,
             "owner": "mtkennerly",
             "repo": "iced-moving-picture",
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:52:57.044Z",
+    "last_updated": "2026-11-14T19:06:27.979Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",

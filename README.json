@@ -15,11 +15,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T22:15:15Z",
+            "last_commit": "2026-11-18T16:42:32Z",
             "open_issues": 59,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 43030,
+            "stars": 43082,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 614,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20446,
+            "stars": 20455,
             "topics": [
               "adb",
               "android",
@@ -87,7 +87,7 @@
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7701,
+            "stars": 7702,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 64,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6582,
+            "stars": 6586,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T20:55:49Z",
-            "open_issues": 276,
+            "last_commit": "2026-11-18T20:53:30Z",
+            "open_issues": 280,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4628,
+            "stars": 4630,
             "topics": [
               "iced",
               "irc",
@@ -178,7 +178,7 @@
             "open_issues": 42,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1613,
+            "stars": 1614,
             "topics": [
               "midi",
               "rust",
@@ -204,7 +204,7 @@
             "open_issues": 25,
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 1034,
+            "stars": 1035,
             "topics": [
               "daimler",
               "diagnostics",
@@ -269,8 +269,8 @@
             "id": 438790077,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T21:25:57Z",
-            "open_issues": 1078,
+            "last_commit": "2026-11-18T20:24:57Z",
+            "open_issues": 1084,
             "owner": "pop-os",
             "repo": "cosmic-comp",
             "stars": 842,
@@ -375,8 +375,8 @@
             "id": 516003390,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T15:26:41Z",
-            "open_issues": 346,
+            "last_commit": "2026-11-18T08:24:14Z",
+            "open_issues": 344,
             "owner": "wizardsardine",
             "repo": "liana",
             "stars": 472,
@@ -405,7 +405,7 @@
             "open_issues": 6,
             "owner": "unobserved-io",
             "repo": "Furtherance",
-            "stars": 395,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -426,7 +426,7 @@
             "open_issues": 156,
             "owner": "pop-os",
             "repo": "cosmic-edit",
-            "stars": 354,
+            "stars": 355,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -472,7 +472,7 @@
             "id": 399619388,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-16T23:38:21Z",
+            "last_commit": "2026-11-18T21:44:31Z",
             "open_issues": 380,
             "owner": "pop-os",
             "repo": "cosmic-applets",
@@ -519,8 +519,8 @@
             "id": 442204350,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T21:28:27Z",
-            "open_issues": 552,
+            "last_commit": "2026-11-18T21:49:53Z",
+            "open_issues": 551,
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 259,
@@ -706,8 +706,8 @@
             "id": 731973928,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-11T00:52:40Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-18T00:53:14Z",
+            "open_issues": 10,
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
             "stars": 158,
@@ -1231,7 +1231,7 @@
             "open_issues": 7,
             "owner": "iced-rs",
             "repo": "iced_audio",
-            "stars": 233,
+            "stars": 234,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1252,7 +1252,7 @@
             "open_issues": 4,
             "owner": "jazzfool",
             "repo": "iced_video_player",
-            "stars": 207,
+            "stars": 208,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1298,8 +1298,8 @@
             "id": 1119626185,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T14:58:02Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-18T08:21:47Z",
+            "open_issues": 2,
             "owner": "LuDog71FR",
             "repo": "iced-code-editor",
             "stars": 59,
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:15:26.413Z",
+    "last_updated": "2026-11-18T21:53:10.961Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",

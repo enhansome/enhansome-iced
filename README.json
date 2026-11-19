@@ -15,11 +15,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:42:32Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-19T09:21:35Z",
+            "open_issues": 56,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 43082,
+            "stars": 43133,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 614,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20455,
+            "stars": 20457,
             "topics": [
               "adb",
               "android",
@@ -87,7 +87,7 @@
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7702,
+            "stars": 7705,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 64,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6586,
+            "stars": 6588,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T20:53:30Z",
-            "open_issues": 280,
+            "last_commit": "2026-11-19T20:44:36Z",
+            "open_issues": 278,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4630,
+            "stars": 4632,
             "topics": [
               "iced",
               "irc",
@@ -178,7 +178,7 @@
             "open_issues": 42,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1614,
+            "stars": 1612,
             "topics": [
               "midi",
               "rust",
@@ -204,7 +204,7 @@
             "open_issues": 25,
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 1035,
+            "stars": 1034,
             "topics": [
               "daimler",
               "diagnostics",
@@ -245,7 +245,7 @@
             "open_issues": 41,
             "owner": "ajour",
             "repo": "ajour",
-            "stars": 1006,
+            "stars": 1005,
             "topics": [
               "addon",
               "addon-managers",
@@ -269,8 +269,8 @@
             "id": 438790077,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T20:24:57Z",
-            "open_issues": 1084,
+            "last_commit": "2026-11-19T16:59:28Z",
+            "open_issues": 1083,
             "owner": "pop-os",
             "repo": "cosmic-comp",
             "stars": 842,
@@ -294,7 +294,7 @@
             "open_issues": 30,
             "owner": "greatest-ape",
             "repo": "OctaSine",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "audio",
               "clap",
@@ -358,7 +358,7 @@
             "open_issues": 5,
             "owner": "BKSalman",
             "repo": "ytdlp-gui",
-            "stars": 480,
+            "stars": 481,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -426,7 +426,7 @@
             "open_issues": 156,
             "owner": "pop-os",
             "repo": "cosmic-edit",
-            "stars": 355,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -519,11 +519,11 @@
             "id": 442204350,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T21:49:53Z",
+            "last_commit": "2026-11-19T19:49:18Z",
             "open_issues": 551,
             "owner": "pop-os",
             "repo": "cosmic-settings",
-            "stars": 259,
+            "stars": 258,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:53:10.961Z",
+    "last_updated": "2026-11-19T22:06:55.408Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",

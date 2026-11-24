@@ -19,7 +19,7 @@
             "open_issues": 56,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 43232,
+            "stars": 43265,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 614,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20474,
+            "stars": 20484,
             "topics": [
               "adb",
               "android",
@@ -83,11 +83,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T14:15:47Z",
+            "last_commit": "2026-11-23T23:12:49Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7712,
+            "stars": 7715,
             "topics": [
               "3d",
               "cube",
@@ -117,10 +117,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-09T04:20:30Z",
-            "open_issues": 64,
+            "open_issues": 66,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6601,
+            "stars": 6604,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-22T20:15:19Z",
-            "open_issues": 286,
+            "last_commit": "2026-11-24T00:31:34Z",
+            "open_issues": 283,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4643,
+            "stars": 4645,
             "topics": [
               "iced",
               "irc",
@@ -178,7 +178,7 @@
             "open_issues": 42,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1615,
+            "stars": 1616,
             "topics": [
               "midi",
               "rust",
@@ -270,10 +270,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-21T02:29:10Z",
-            "open_issues": 1106,
+            "open_issues": 1115,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 842,
+            "stars": 843,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -294,7 +294,7 @@
             "open_issues": 30,
             "owner": "greatest-ape",
             "repo": "OctaSine",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "audio",
               "clap",
@@ -375,11 +375,11 @@
             "id": 516003390,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T08:24:14Z",
-            "open_issues": 345,
+            "last_commit": "2026-11-23T13:51:08Z",
+            "open_issues": 346,
             "owner": "wizardsardine",
             "repo": "liana",
-            "stars": 473,
+            "stars": 474,
             "topics": [
               "bitcoin",
               "miniscript",
@@ -1231,7 +1231,7 @@
             "open_issues": 7,
             "owner": "iced-rs",
             "repo": "iced_audio",
-            "stars": 234,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:42:08.499Z",
+    "last_updated": "2026-11-24T01:37:45.612Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",

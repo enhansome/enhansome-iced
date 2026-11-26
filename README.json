@@ -15,11 +15,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T11:32:40Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-25T23:07:02Z",
+            "open_issues": 58,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 43307,
+            "stars": 43330,
             "topics": [
               "app",
               "application",
@@ -61,7 +61,7 @@
             "open_issues": 614,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20495,
+            "stars": 20497,
             "topics": [
               "adb",
               "android",
@@ -83,11 +83,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T23:12:16Z",
+            "last_commit": "2026-11-26T09:14:20Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7716,
+            "stars": 7718,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 66,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6612,
+            "stars": 6618,
             "topics": [
               "backup",
               "cli",
@@ -153,7 +153,7 @@
             "open_issues": 283,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4649,
+            "stars": 4654,
             "topics": [
               "iced",
               "irc",
@@ -178,7 +178,7 @@
             "open_issues": 42,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1618,
+            "stars": 1619,
             "topics": [
               "midi",
               "rust",
@@ -270,10 +270,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-24T23:00:47Z",
-            "open_issues": 1115,
+            "open_issues": 1117,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 844,
+            "stars": 843,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -358,7 +358,7 @@
             "open_issues": 5,
             "owner": "BKSalman",
             "repo": "ytdlp-gui",
-            "stars": 479,
+            "stars": 480,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -473,7 +473,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-24T23:00:44Z",
-            "open_issues": 388,
+            "open_issues": 389,
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 317,
@@ -520,7 +520,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-25T20:12:32Z",
-            "open_issues": 554,
+            "open_issues": 555,
             "owner": "pop-os",
             "repo": "cosmic-settings",
             "stars": 259,
@@ -710,7 +710,7 @@
             "open_issues": 10,
             "owner": "waycrate",
             "repo": "exwlshelleventloop",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "layershell",
               "sessionlock",
@@ -1069,7 +1069,7 @@
             "open_issues": 129,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 3044,
+            "stars": 3045,
             "topics": [
               "clap",
               "framework",
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:03:16.848Z",
+    "last_updated": "2026-11-26T22:56:45.094Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",

@@ -15,11 +15,11 @@
             "id": 519895363,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T23:07:02Z",
+            "last_commit": "2026-11-27T16:25:16Z",
             "open_issues": 58,
             "owner": "GyulyVGC",
             "repo": "sniffnet",
-            "stars": 43330,
+            "stars": 43358,
             "topics": [
               "app",
               "application",
@@ -58,10 +58,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2024-08-02T16:16:12Z",
-            "open_issues": 614,
+            "open_issues": 612,
             "owner": "0x192",
             "repo": "universal-android-debloater",
-            "stars": 20497,
+            "stars": 20501,
             "topics": [
               "adb",
               "android",
@@ -83,11 +83,11 @@
             "id": 135222855,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T09:14:20Z",
+            "last_commit": "2026-11-26T23:11:32Z",
             "open_issues": 4,
             "owner": "veloren",
             "repo": "veloren",
-            "stars": 7718,
+            "stars": 7719,
             "topics": [
               "3d",
               "cube",
@@ -120,7 +120,7 @@
             "open_issues": 66,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6618,
+            "stars": 6619,
             "topics": [
               "backup",
               "cli",
@@ -149,11 +149,11 @@
             "id": 481230318,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T00:31:34Z",
-            "open_issues": 283,
+            "last_commit": "2026-11-27T17:45:19Z",
+            "open_issues": 285,
             "owner": "squidowl",
             "repo": "halloy",
-            "stars": 4654,
+            "stars": 4655,
             "topics": [
               "iced",
               "irc",
@@ -178,7 +178,7 @@
             "open_issues": 42,
             "owner": "PolyMeilex",
             "repo": "Neothesia",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "midi",
               "rust",
@@ -204,7 +204,7 @@
             "open_issues": 25,
             "owner": "rnd-ash",
             "repo": "OpenVehicleDiag",
-            "stars": 1037,
+            "stars": 1038,
             "topics": [
               "daimler",
               "diagnostics",
@@ -270,10 +270,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-24T23:00:47Z",
-            "open_issues": 1117,
+            "open_issues": 1119,
             "owner": "pop-os",
             "repo": "cosmic-comp",
-            "stars": 843,
+            "stars": 844,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -473,7 +473,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-24T23:00:44Z",
-            "open_issues": 389,
+            "open_issues": 391,
             "owner": "pop-os",
             "repo": "cosmic-applets",
             "stars": 317,
@@ -565,7 +565,7 @@
             "open_issues": 12,
             "owner": "brianch",
             "repo": "offline-chess-puzzles",
-            "stars": 231,
+            "stars": 232,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:49.588Z"
@@ -613,7 +613,7 @@
             "open_issues": 6,
             "owner": "B0ney",
             "repo": "xmodits",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "audio",
               "fasttracker2",
@@ -665,7 +665,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-11-24T23:01:01Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "pop-os",
             "repo": "cosmic-launcher",
             "stars": 161,
@@ -1069,7 +1069,7 @@
             "open_issues": 129,
             "owner": "robbert-vdh",
             "repo": "nih-plug",
-            "stars": 3045,
+            "stars": 3046,
             "topics": [
               "clap",
               "framework",
@@ -1474,7 +1474,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:56:45.094Z",
+    "last_updated": "2026-11-27T22:39:13.950Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of custom widgets, example projects, integrations, and resources made with/for iced",
